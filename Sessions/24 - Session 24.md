@@ -38,10 +38,10 @@ T’hau has theirecho walk into plain sight next, trying to see if this triggers
 Nesali explains they were captured by the Grung, a small group of frog folk. The man’s name is Zihu. The Grung belief she and Zihu have something to do with the illumination of this place. She says she and Zihu fled from the Fane of the Cloaked Serpent, mentioning Astus the Misshapen and Talesh the Pronounced. They do not want to be found by the other yuan-ti.  
 The crew heads down, Mal casting Comprehend Languages so she can try and start reading the Elvish writing on the ground here. 
 
-In the night's embrace, Avandra's tender glow,
-Whispers secrets where the silent waters flow.
-Mirror its light where the shadows dance,
-To unveil the hidden, in a silvery glance.
+>In the night's embrace, Avandra's tender glow,
+>Whispers secrets where the silent waters flow.
+>Mirror its light where the shadows dance,
+>To unveil the hidden, in a silvery glance.
 
 The others free the two yuan-ti, who tell them where the Grung disappeared to and they’re likely to be back soon. Nesali and Zihu aren’t too familiar with the area, they at least weren’t aware of the Grung living in this area. 
 
