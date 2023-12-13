@@ -1,0 +1,1 @@
+Find a lens, with a golden edge, adorned with eyes.
