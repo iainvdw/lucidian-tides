@@ -9,6 +9,7 @@ T’hau sends their echo through to see where the arch leads. Looking through it
 The echo returns unharmed. 
 
 As it seemed like there wasn’t much there through the portal, they decide to try and keep moving the other stones. All four lock into place, both archways lighting up. The silvery light starts to leak out of the portals towards the stonework in the center, meeting in a flash of blinding white light. 
+
 Rayna, who is in the center when this happens, disappears. Mal, Storm and T’hau head towards the center, but can’t seem to find her. Mal suggests they turn one of the stones away from the right rune and then back again, but Doloris points out there’s a way through the archways, through which she sees Rayna.
 
 Rayna finds herself elsewhere. There’s text, speaking of divine tests. 
