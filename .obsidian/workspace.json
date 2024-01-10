@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eb36c52584eae542",
+            "id": "2b7a873f358fe6b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/25 - Session 25.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0abeed0ff374117",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/26 - Session 26.md",
+                "file": "Sessions/28 - Session 28.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/26 - Session 26.md",
+                "file": "Sessions/28 - Session 28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/26 - Session 26.md",
+                "file": "Sessions/28 - Session 28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/26 - Session 26.md"
+                "file": "Sessions/28 - Session 28.md"
               }
             }
           }
@@ -167,10 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0abeed0ff374117",
+  "active": "2b7a873f358fe6b1",
   "lastOpenFiles": [
-    "Sessions/25 - Session 25.md",
+    "Sessions/27 - Session 27.md",
     "Sessions/26 - Session 26.md",
+    "Sessions/25 - Session 25.md",
+    "Sessions/28 - Session 28.md",
     "Sessions/7 - Seabed Swindle.md",
     "Sessions/8 - No Loose Ends.md",
     "Sessions/9 - Councils and Contraband.md",
@@ -193,9 +182,7 @@
     "Sessions/20 - Session 20.md",
     "Home.md",
     "Misc/Ship Roles/First Gunner.md",
-    "Misc/Ship Roles/The Serpent's Tide - Ship.md",
     "0. Assets/Misc/First Gunner.jpg",
-    "Sessions/16 - T'hausand Mile Stare.md",
     "0. Assets/Characters/alma.png",
     "1. Characters/Port Damali",
     "0. Assets/Locations/menagerie-coast.png",
