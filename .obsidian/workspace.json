@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e20e5cb5e9660c3b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e20e5cb5e9660c3b",
+  "active": "2b7a873f358fe6b1",
   "lastOpenFiles": [
     "Sessions/27 - Session 27.md",
     "Sessions/26 - Session 26.md",
