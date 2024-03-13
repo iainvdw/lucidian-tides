@@ -4,63 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "5dc8d7a17e572e26",
+        "id": "f907691badc49510",
         "type": "tabs",
         "children": [
           {
-            "id": "b8db525263877293",
+            "id": "3ba8c719352b4c4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/24 - Moonlit Mysteries and Mayhem.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6043526c2bc8c4f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/24 - Moonlit Mysteries and Mayhem.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b558aa1062b8af4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Characters/Lushgut Forest/Mudgraw.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b5f944d7b8642e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Locations/Lushgut Forest/Sanctuary of Perpetual Tides.md",
+                "file": "Misc/Ship Roles/First Gunner.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Characters/Lushgut Forest/Mudgraw.md",
+                "file": "Misc/Ship Roles/First Gunner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Characters/Lushgut Forest/Mudgraw.md",
+                "file": "Misc/Ship Roles/First Gunner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Characters/Lushgut Forest/Mudgraw.md"
+                "file": "Misc/Ship Roles/First Gunner.md"
               }
             }
           }
@@ -194,13 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b558aa1062b8af4",
+  "active": "3ba8c719352b4c4a",
   "lastOpenFiles": [
-    "Sessions/24 - Moonlit Mysteries and Mayhem.md",
-    "1. Characters/Lushgut Forest/Nesali.md",
-    "1. Characters/Lushgut Forest/Mudgraw.md",
-    "Sessions/23 - Nature versus Nurture.md",
+    "Misc/Ship Roles/The Serpent's Tide - Ship.md",
+    "Misc/Ship Roles/First Gunner.md",
     "2. Locations/Lushgut Forest/Sanctuary of Perpetual Tides.md",
+    "Sessions/24 - Moonlit Mysteries and Mayhem.md",
+    "1. Characters/Lushgut Forest/Mudgraw.md",
+    "1. Characters/Lushgut Forest/Nesali.md",
+    "Sessions/23 - Nature versus Nurture.md",
     "2. Locations/Lushgut Forest/Taruun Goliath village.md",
     "2. Locations/Lushgut Forest/Lushgut Forest.md",
     "Sessions/28 - Session 28.md",
@@ -222,8 +184,6 @@
     "1. Characters/Serpent's Tide Crew/Julnar Norra.md",
     "1. Characters/Serpent's Tide Crew/Captain Cassian Sariel de Rochefort.md",
     "Sessions/1 - Twinward Ambush.md",
-    "Sessions/14 - Ultimatum.md",
-    "Sessions/20 - Splintered Hulls.md",
     "1. Characters/Miscellaneous",
     "0. Assets/Misc/First Gunner.jpg",
     "0. Assets/Characters/alma.png",
