@@ -1,0 +1,1 @@
+One of two yuan-ti we encountered in [[Lushgut Forest]]. Was together with [[Nesali]].

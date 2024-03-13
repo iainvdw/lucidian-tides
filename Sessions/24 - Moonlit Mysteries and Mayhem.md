@@ -13,9 +13,12 @@ The scent of the flower hits Mal and Doloris as well. Mal watches as the map cha
 Mal suggests they keep going, but Doloris finds she can’t leave. They discuss what to do with the flower, Mal figuring out that pulling it into the shadow might close the petals again and get rid of the scent that seems to be intoxicating Doloris. Pushing the petals out of the shadows doesn’t necessarily seem to work. At Doloris’ insistence, Mal smacks her, but that doesn’t snap her out of it either.
 
 As this happens, they see lights up in the sky, with hypnotises both Stormbreaker and Mudgraw. Some yuan-ti seem to have snuck on them.
+
 Combat. 
+
 The yuan-ti seemed to be looking for the map, but the crew defeats them. 
 Doloris finds she still can’t move away from the flower. She asks the others to look for a dagger, but they don’t find anything. She casts Lesser Restoration on herself, which snaps her out of it. She also takes a look at the yuan-ti, but can’t find the kris knife she’s looking for either. 
+
 With the flower outside of the moonlight, the map seems to have gone dormant. T’hau moves their echo near the flower to move it back into the moonlight. The map in the echo’s hands comes to life again. 
 
 They continue following the map. Eventually reach a river with a cliff across, which is where the compass is pointing. They swim and talk their way across the river. At the cliff face, they find Elvish writing on the wall. Doloris takes an educated guess as to what it says, based on her Elvish lessons with [[Captain Cassian Sariel de Rochefort|the captain]]. 
@@ -36,6 +39,7 @@ T’hau scouts ahead through his echo. As the echo comes closer, it spots more E
 T’hau has theirecho walk into plain sight next, trying to see if this triggers any kind of ambush. The woman instantly responds to seeing the echo, asking if they can be freed, warning them that ‘they’ will be coming back.
 
 Nesali explains they were captured by the Grung, a small group of frog folk. The man’s name is Zihu. The Grung belief she and Zihu have something to do with the illumination of this place. She says she and Zihu fled from the Fane of the Cloaked Serpent, mentioning Astus the Misshapen and Talesh the Pronounced. They do not want to be found by the other yuan-ti.  
+
 The crew heads down, Mal casting Comprehend Languages so she can try and start reading the Elvish writing on the ground here. 
 
 >In the night's embrace, Avandra's tender glow,

@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/28 - Session 28.md",
+                "file": "1. Characters/Lushgut Forest/Nesali.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6043526c2bc8c4f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Characters/Lushgut Forest/Zihu.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/28 - Session 28.md",
+                "file": "1. Characters/Lushgut Forest/Zihu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/28 - Session 28.md",
+                "file": "1. Characters/Lushgut Forest/Zihu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/28 - Session 28.md"
+                "file": "1. Characters/Lushgut Forest/Zihu.md"
               }
             }
           }
@@ -154,11 +168,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8db525263877293",
+  "active": "6043526c2bc8c4f2",
   "lastOpenFiles": [
-    "1. Characters/The Party/T'hau.md",
-    "Sessions/10 - Landmarks.md",
+    "1. Characters/Lushgut Forest/Nesali.md",
+    "1. Characters/Lushgut Forest/Zihu.md",
+    "Sessions/24 - Moonlit Mysteries and Mayhem.md",
+    "1. Characters/Lushgut Forest",
+    "Sessions/25 - Moonlight Croaknata.md",
     "1. Characters/The Party/Stormbreaker.md",
+    "1. Characters/The Party/T'hau.md",
+    "Sessions/28 - Session 28.md",
+    "Sessions/10 - Landmarks.md",
     "Sessions/27 - Session 27.md",
     "1. Characters/The Party/Rayna Khatri.md",
     "1. Characters/The Party/Mallory Calder.md",
@@ -171,17 +191,12 @@
     "Sessions/14 - Ultimatum.md",
     "Sessions/20 - Splintered Hulls.md",
     "Sessions/23 - Nature versus Nurture.md",
-    "Sessions/28 - Session 28.md",
     "1. Characters/Serpent's Tide Crew/Big Neela.md",
     "1. Characters/Port Zoon/Lorenzo.md",
     "1. Characters/Port Damali/Isol.md",
     "1. Characters/Port Damali/Alma Hyllyndre.md",
     "1. Characters/Nicodranas/Tamulia.md",
     "1. Characters/Nicodranas/Sister Pherria.md",
-    "1. Characters/Nicodranas/Obaya.md",
-    "1. Characters/Nicodranas/Nicodranas' Councillors.md",
-    "1. Characters/Nicodranas/Lucienne de Montfort.md",
-    "1. Characters/Nicodranas/Guillaume de Montfort.md",
     "1. Characters/Miscellaneous",
     "0. Assets/Misc/First Gunner.jpg",
     "0. Assets/Characters/alma.png",
@@ -200,7 +215,6 @@
     "1. Characters/Port Zoon",
     "1. Characters/Gravid Archipelago",
     "1. Characters/Clovis Concord",
-    "0. Assets/Misc",
-    "Misc/Ship Roles"
+    "0. Assets/Misc"
   ]
 }

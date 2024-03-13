@@ -48,4 +48,4 @@ Soon, the crew find themselves back aboard the Serpent’s Tide.
 
 They tell [[Captain Cassian Sariel de Rochefort|the captain]] they succeeded in why they came here. He shares the [[Plank Queen Yucalia|Plank Queen]] contacted him yesterday, her suggestion is they come back to Darktow and she’s calling a conclave. The situation in Nicodranas and such hasn’t improved. The conclave likely means a big decision will have to be made. 
 
-Finally, they set sail to Darktow.
+Finally, they set sail to [[Darktow]].

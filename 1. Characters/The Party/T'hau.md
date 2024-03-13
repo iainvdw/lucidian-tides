@@ -1,6 +1,5 @@
 ---
 aliases:
-  - Thau
   - crab
   - T’hau
 ---
