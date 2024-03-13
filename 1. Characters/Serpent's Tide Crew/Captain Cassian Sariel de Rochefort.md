@@ -1,5 +1,9 @@
 ---
-aliases: Captain Sariel, Sariel, Cassian
+aliases:
+  - Captain Sariel
+  - Sariel
+  - Cassian
+  - the captain
 ---
 ![[captain-sariel.png]]
 
