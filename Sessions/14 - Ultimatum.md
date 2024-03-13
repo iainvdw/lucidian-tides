@@ -21,11 +21,11 @@ Everyone eventually gets some sleep and they all wake up the following morning. 
 
 They set off aboard the Dragonfly, traveling towards where they roughly agreed to meet up with the Serpent’s Tide. The two ships meet in the night, the two captains greeting each other heartily. 
 
-They catch the captain up with what happened at the Golden Chain vault. He tells them the mission for Primewater went well too.
+They catch the captain up with what happened at the Golden Chain vault. He tells them the mission for [[Gellan Primewater|Primewater]] went well too.
 
-Meanwhile, the council meeting is taking place. Alvaro is accompanied by a servant, Mister Orsino Navarr. He addresses the council, having his servant read out some of the agreement of the city of Nicodranas. He then turns to Eda, asking her if she’s ever been arrested, before bringing up a charge against her. Eda protests this charge, claiming it’s bullshit, but Alvaro says the charge is real and was hand-delivered to him by Lorenzo, the son of Alamad Haddou, the previous client of Eda.  
+Meanwhile, the council meeting is taking place. Alvaro is accompanied by a servant, Mister Orsino Navarr. He addresses the council, having his servant read out some of the agreement of the city of Nicodranas. He then turns to Eda, asking her if she’s ever been arrested, before bringing up a charge against her. Eda protests this charge, claiming it’s bullshit, but Alvaro says the charge is real and was hand-delivered to him by [[Lorenzo]], the son of Alamad Haddou, the previous client of Eda.  
 
-Alvaro continues by saying he thinks Eda is unfit to serve as a councillor, especially considering what happened in the Skews not a week ago. He presents the council with an ultimatum: they have one hour to disband, apprehend Eda Donegal so that she may be tried for her crimes, and accept their new marquis: Lord Guillaume de Montfort.
+Alvaro continues by saying he thinks Eda is unfit to serve as a councillor, especially considering what happened in the Skews not a week ago. He presents the council with an ultimatum: they have one hour to disband, apprehend [[Eda Donegal]] so that she may be tried for her crimes, and accept their new marquis: Lord [[Guillaume de Montfort]].
 
 The room erupts in protests, which Alvaro shuts down. He tells to Navarr, telling him to get the man-hunt for the terrorist that attacked the Golden Chain vault under way, and then begins walking away. Primewater speaks up before he leaves the room, claiming he has proof that de Montfort is as tied to the Nine Hells as Uludan was.
 
@@ -37,7 +37,7 @@ Stormbreaker and Rayna approach the Chimera, as T’hau, Mal and Doloris approac
 
 Stormbreaker, with crab!Rayna on his shoulder, manages to enter in a not very subtle way, knocking a cannon back into a deckhand below deck. T’hau and Mal have better luck opening the cannon hole on their ship quietly, finding the deck largely empty. 
 
-Stormbreaker opens the door that leads down, setting down crab!Rayna and attempting to grab the attention of any other crew through the door. Stormbreaker tells the crew aboard, as well as Vidorant, who is aboard this ship, that they’ve been found guilty of firing on an innocent city, and they have roughly twenty four seconds until the ship is set on fire.
+Stormbreaker opens the door that leads down, setting down crab!Rayna and attempting to grab the attention of any other crew through the door. Stormbreaker tells the crew aboard, as well as [[Commander Da'urlo Vidorant|Vidorant]], who is aboard this ship, that they’ve been found guilty of firing on an innocent city, and they have roughly twenty four seconds until the ship is set on fire.
 T’hau, Mal and Doloris enter the ship as well, running into some deckhands, soldiers, as well as a half-orc member of the Enchanted Gale. 
 
 Meanwhile, Rayna makes her way down to where the gunpowder locker is, dropping her wildshape and casting burning hands on the locker area as Stormbreaker continues keeping Vidorant busy.
@@ -58,6 +58,6 @@ Primewater got away, though he was injured; the captain believes he should recov
 
 The captain then presents the crew with some money as well as a ledger that Primewater gave to him. It’s the ‘dirt’ that Primewater has been gathering on his colleagues for the last couple of years. 
 
-The conversation then turns to what they should do next. The Captain says he’s been in touch with the Plank Queen, who mentioned hiring some soldiers to take on the city of Nicodranas. The crew agrees that not heading back to Nicodranas at least for a little while is likely the smartest, though some of them want to go back now and start a full on rebellion. Mal suggests that Port Damali could be an option; they could find out more about what Alvaro was doing there. 
+The conversation then turns to what they should do next. The Captain says he’s been in touch with the [[Plank Queen Yucalia|Plank Queen]], who mentioned hiring some soldiers to take on the city of Nicodranas. The crew agrees that not heading back to Nicodranas at least for a little while is likely the smartest, though some of them want to go back now and start a full on rebellion. Mal suggests that Port Damali could be an option; they could find out more about what Alvaro was doing there. 
 
 Doloris turns to Eda to ask for her opinion: she thinks they’re now in open war with the Concord.  

@@ -1,4 +1,4 @@
-Combat starts at the Cobalt Reserve. Isol puts the fire out properly after the last Zhelezo flee the building. They seek out Cobalt Soul leadership to talk about what happened, Elkael the wizard joining them, as well as Darmin.  
+Combat starts at the Cobalt Reserve. [[Isol]] puts the fire out properly after the last [[Zhelezo]] flee the building. They seek out Cobalt Soul leadership to talk about what happened, Elkael the wizard joining them, as well as Darmin.  
 
 Aboard the ship, Rayna and Mal talk about how weird the crew is. They then seek out the others, Rayna wanting to try out if she can ‘make Stormbreaker move somewhere he doesn’t want to go’, as Mal told her he likely wouldn’t. She takes the point a little too literally, but does manage to push Stormbreaker down to the ground, slightly aided by the fact he seems drunk. 
 

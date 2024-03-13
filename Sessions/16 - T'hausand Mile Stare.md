@@ -8,7 +8,7 @@ Taking a look at everything, Doloris deduces that whatever was in this pocket di
 
 The crew discusses how to find T’hau after the tracks of slime turn out hard to track. As they’re discussing this, someone boards the ship from the water: a female sea elf who claims she’s just here visiting an old friend. She wears a talisman around her neck showing the symbol of Ioun. 
 
-She introduces herself as Alma, she knows T’hau from a long time ago. They tell her what they think happened to T’hau. Sage Ahvoste, presumably of the Cobalt Soul, warned T’hau about the book. The group decides to head to the Cobalt Reserve, as they should also be able to tell them who rented the book before T’hau did.
+She introduces herself as [[Alma Hyllyndre|Alma]], she knows T’hau from a long time ago. They tell her what they think happened to T’hau. Sage Ahvoste, presumably of the Cobalt Soul, warned T’hau about the book. The group decides to head to the Cobalt Reserve, as they should also be able to tell them who rented the book before T’hau did.
 
 Alma leads the way to the Cobalt Reserve, to one of the desks inside behind which an old dwarf is seated. Sage Ahvoste shares stories of the previous owner of the book, who went stark raving mad. Her name was Bendira, she still lives in the city. She often came to Tumbledown Bank to meditate on the shoreline. She used to live in the Beaded Alley. She became obsessed with freeing something called Iluun from the book.
 

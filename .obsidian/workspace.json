@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/8 - No Loose Ends.md",
+                "file": "1. Characters/Serpent's Tide Crew/Captain Cassian Sariel de Rochefort.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alvaro",
+                "query": "Uqaviel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,14 +94,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/8 - No Loose Ends.md",
+                "file": "1. Characters/Serpent's Tide Crew/Captain Cassian Sariel de Rochefort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/8 - No Loose Ends.md",
+                "file": "1. Characters/Serpent's Tide Crew/Captain Cassian Sariel de Rochefort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/8 - No Loose Ends.md"
+                "file": "1. Characters/Serpent's Tide Crew/Captain Cassian Sariel de Rochefort.md"
               }
             }
           }
@@ -143,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,35 +154,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56870d3d83508521",
+  "active": "b8db525263877293",
   "lastOpenFiles": [
-    "2. Locations/Menagerie Coast/Nicodranas.md",
-    "Sessions/8 - No Loose Ends.md",
-    "1. Characters/The Party/Bartholomew Brittlestone.md",
+    "Sessions/28 - Session 28.md",
+    "1. Characters/Serpent's Tide Crew/Captain Cassian Sariel de Rochefort.md",
+    "1. Characters/Serpent's Tide Crew/Big Neela.md",
+    "1. Characters/Port Zoon/Lorenzo.md",
+    "1. Characters/Port Damali/Isol.md",
+    "1. Characters/Port Damali/Alma Hyllyndre.md",
+    "1. Characters/Nicodranas/Tamulia.md",
+    "1. Characters/Nicodranas/Sister Pherria.md",
+    "1. Characters/Nicodranas/Obaya.md",
+    "1. Characters/Nicodranas/Nicodranas' Councillors.md",
+    "1. Characters/Nicodranas/Lucienne de Montfort.md",
+    "1. Characters/Nicodranas/Guillaume de Montfort.md",
+    "1. Characters/Nicodranas/Lord de Montfort.md",
+    "1. Characters/Myriad/Kirour Grimblade.md",
+    "1. Characters/Nicodranas/Eda Donegal.md",
+    "1. Characters/Nicodranas/Gellan Primewater.md",
+    "1. Characters/Nicodranas/First Sergeant Brehkan.md",
+    "1. Characters/Nicodranas/Eliander de Matiz.md",
+    "1. Characters/Nicodranas/Commodore Balthair de Modesto.md",
+    "1. Characters/Nicodranas/Captain Thuillian.md",
+    "1. Characters/Nicodranas/Ava.md",
+    "1. Characters/Myriad/Heltur Ribbond.md",
+    "1. Characters/Gravid Archipelago/‘Ole Thick.md",
     "1. Characters/Miscellaneous/Uqaviel the Requiant.md",
     "Sessions/10 - Landmarks.md",
-    "1. Characters/Serpent's Tide Crew/Captain Cassian Sariel de Rochefort.md",
-    "1. Characters/Miscellaneous/Untitled.md",
-    "1. Characters/People.md",
+    "1. Characters/Golden Chain/Yuzza Ribbond.md",
     "1. Characters/Miscellaneous",
-    "Sessions/7 - Seabed Swindle.md",
-    "Sessions/9 - Councils and Contraband.md",
-    "Sessions/6 - The Dead Of Night Keeps Grave Accusations.md",
-    "Sessions/5 - A Silky Smooth Ambush.md",
-    "Sessions/12 - Vidorants Vault.md",
-    "Sessions/13 - Blazing Heist.md",
-    "Sessions/28 - Session 28.md",
-    "Sessions/27 - Session 27.md",
-    "Sessions/26 - Session 26.md",
-    "Sessions/25 - Session 25.md",
-    "Sessions/25 - Moonlight Croaknata.md",
-    "Sessions/24 - Moonlit Mysteries and Mayhem.md",
-    "Sessions/23 - Nature versus Nurture.md",
-    "Sessions/22 - The Snout of Omgar.md",
-    "Sessions/20 - Splintered Hulls.md",
-    "Sessions/19 - Mapquest.md",
-    "Sessions/15 - Port of Call.md",
-    "Sessions/14 - Ultimatum.md",
     "0. Assets/Misc/First Gunner.jpg",
     "0. Assets/Characters/alma.png",
     "1. Characters/Port Damali",

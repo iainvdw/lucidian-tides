@@ -1,4 +1,4 @@
-T’hau split off from the rest of the party to meet up with Alma at the Cobalt Reserve. Asking about Salar turned Sage Ahvost pretty pale, he initially offered books that weren’t helpful. T’hau asked more questions, and was told about the book on Salar, though Ahvost said he couldn’t just give the book to them, needing permission from his boss.
+T’hau split off from the rest of the party to meet up with [[Alma Hyllyndre|Alma]] at the Cobalt Reserve. Asking about Salar turned Sage Ahvost pretty pale, he initially offered books that weren’t helpful. T’hau asked more questions, and was told about the book on Salar, though Ahvost said he couldn’t just give the book to them, needing permission from his boss.
 
 T’hau is later given the book, though it came with numerous warnings. They were only given the book with the promise of them destroying it later. As they went through the book, he heard a voice: “Hello, Desmond. Are you looking for the city which eyes cannot see?”
 The voice continues teasing them, offering them knowledge on whatever they want to know. The voice compels them to say a word, next saying they need some seawater. T’hau summons his echo, which reaches into the book and pulls out a stone containing three marbles. 
@@ -13,7 +13,7 @@ She tells the others she’s seeing things, Stormbreaker suggests they go speak 
 
 T’hau starts leading the others towards where Bendira is. There are five figures in the room he leads them to. Four humans and one water genasi. As Rayna heads inside, she spots a small wooden box: a musical box that her mother had. She takes it, opening the box. A little wooden heart pops out of it as music plays.
 
-When she looks up, she finds herself somewhere else. Finds herself in a bar of sorts, with heraldry of House de Montfort. 
+When she looks up, she finds herself somewhere else. Finds herself in a bar of sorts, with heraldry of House [[Guillaume de Montfort|de Montfort]]. 
 
 Bendira speaks of finding knowledge, saying they intend on using Iluun and her kind to find said knowledge. Iluun is currently being birthed in a well through a door to the north. Doloris points out that Iluun and her kind enslaved T’hau and his kind, to which Bendira counters that they instead created T’hau and his kind. Mal points out that them creating and then enslaving people isn’t really any better. 
 

@@ -2,11 +2,11 @@ The crew is rudely awakened by a town crier, yelling about how people should bri
 
 Doloris chases after the town crier to try and catch up with him. She pretends to be annoyed with him because it’s so early, he seems willing to move along as long as Doloris gives him some money. She finds some gold in her pocket and pays him, so he takes his leave. 
 
-She gets a closer look at the pamphlet the crier is holding. It’s a drawing of Mal, with some wanted lettering detailing the amount of money that de Montfort family is willing to spend. It also says ‘any and all information inquiries redirected at Montfort Estate’ with a name attached, Cecelin Auvrindar. 
+She gets a closer look at the pamphlet the crier is holding. It’s a drawing of Mal, with some wanted lettering detailing the amount of money that [[Guillaume de Montfort|de Montfort]] family is willing to spend. It also says ‘any and all information inquiries redirected at Montfort Estate’ with a name attached, Cecelin Auvrindar. 
 
 Doloris returns to the ship and shares the news with the rest of the group. Mal shares that she does recognize Cecilin’s name: it’s her old nanny who now runs most of the de Montfort household. 
 
-The crew discuss what to do about this. Mal suggests that the others check out the tannery as planned, she will find Obaya at the temple to Melora and warn her about Alvaro coming. Big Neela will accompany her, as the others don’t like Mal setting out on her own. 
+The crew discuss what to do about this. Mal suggests that the others check out the tannery as planned, she will find [[Obaya]] at the temple to Melora and warn her about Alvaro coming. [[Big Neela]] will accompany her, as the others don’t like Mal setting out on her own. 
 
 Doloris, T’hau, Stormbreaker and Rayna set out towards the tannery. They spot the crier again, who seems to be getting some abuse from the people around; they don’t seem to be his biggest fans.
 
@@ -36,13 +36,13 @@ Concluding the conversation with Vennic, the crew decides to head to the mine. W
 
 Flintguard says it may not be a dwarf who also works in the mines. A lot of people in the neighborhood are looking to pin it on them. A number of the vats at the tannery are now useless. He thinks this may finally be the moment Benja stops being stubborn, though he’s not planning on approaching Benja with an proposal for that right now.
 
-Stormbreaker shares the description of the dwarf that Vennic provided them with. Flintguard says none of his workers look like that. They don’t employ any gray dwarves; they give them a bad name. A lot of them are twisted by the time they spend underground. The group recalls that Kirour was also a gray dwarf. 
+Stormbreaker shares the description of the dwarf that Vennic provided them with. Flintguard says none of his workers look like that. They don’t employ any gray dwarves; they give them a bad name. A lot of them are twisted by the time they spend underground. The group recalls that [[Kirour Grimblade|Kirour]] was also a gray dwarf. 
 
 Stormbreaker then asks Flintguard if he knows if anyone wants to harm the mine. He says many people don’t like them being here. He names Eda, but he doesn’t think she’s the type to do something like that. There are stakeholders, like Lady Sherome, who may have enemies, but Flintguard doesn’t know much about that. 
 
 He says they simply discovered a vein of platinum whilst the city was away in Avernus and they decided to exploit it for the betterment of the Concord. Part of their funding comes from the Concord itself; they feel its a good way for Nicodranas to become financially stable again. 
 
-Flintguard excuses himself. The crew and Willow brainstorm about who may be suspects. Stormbreaker and Doloris remember seeing Bram in the Blushing Mermaid as they were passing through. They discuss whether or not to talk to the Zhelezo, the staff at the Blushing Mermaid or to Bram himself.
+Flintguard excuses himself. The crew and Willow brainstorm about who may be suspects. Stormbreaker and Doloris remember seeing Bram in the Blushing Mermaid as they were passing through. They discuss whether or not to talk to the [[Zhelezo]], the staff at the Blushing Mermaid or to Bram himself.
 
 This discussion ends with the crew saying Willow should invite Bram for drinks to the Blushing Mermaid. They head to the tannery, where Bram and Proaker seem to be dividing up the puddings into smaller puddings. 
 

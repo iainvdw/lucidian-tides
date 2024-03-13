@@ -1,5 +1,8 @@
 ---
-aliases: The Pig
+aliases:
+  - The Pig
+  - de Modesto
+  - Modesto
 ---
 ![[commodore-de-modesto.png]]
 

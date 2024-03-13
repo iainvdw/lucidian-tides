@@ -18,7 +18,7 @@ The yuan-ti seemed to be looking for the map, but the crew defeats them.
 Doloris finds she still can’t move away from the flower. She asks the others to look for a dagger, but they don’t find anything. She casts Lesser Restoration on herself, which snaps her out of it. She also takes a look at the yuan-ti, but can’t find the kris knife she’s looking for either. 
 With the flower outside of the moonlight, the map seems to have gone dormant. T’hau moves their echo near the flower to move it back into the moonlight. The map in the echo’s hands comes to life again. 
 
-They continue following the map. Eventually reach a river with a cliff across, which is where the compass is pointing. They swim and talk their way across the river. At the cliff face, they find Elvish writing on the wall. Doloris takes an educated guess as to what it says, based on her Elvish lessons with the captain. 
+They continue following the map. Eventually reach a river with a cliff across, which is where the compass is pointing. They swim and talk their way across the river. At the cliff face, they find Elvish writing on the wall. Doloris takes an educated guess as to what it says, based on her Elvish lessons with [[Captain Cassian Sariel de Rochefort|the captain]]. 
 
 She speaks the words and clouds start to move in, obstructing the moonlight. The compass now points to the east, shifting after the words were spoken. 
 They follow the compass again, along the cliff face. The compass is their only light, everything around them is shrouded in darkness. Mal pulls out her rope, everyone holding on to it as they start moving forward. 
