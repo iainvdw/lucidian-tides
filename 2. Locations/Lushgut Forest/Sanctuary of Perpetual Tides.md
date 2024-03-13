@@ -1,0 +1,1 @@
+A village sanctuary, mainly inhabited by a bunch of debout tortles.

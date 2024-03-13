@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Characters/Lushgut Forest/Nesali.md",
+                "file": "Sessions/24 - Moonlit Mysteries and Mayhem.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Characters/Lushgut Forest/Zihu.md",
+                "file": "Sessions/24 - Moonlit Mysteries and Mayhem.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b558aa1062b8af4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Characters/Lushgut Forest/Mudgraw.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b5f944d7b8642e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Locations/Lushgut Forest/Sanctuary of Perpetual Tides.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Uqaviel",
+                "query": "tortle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Characters/Lushgut Forest/Zihu.md",
+                "file": "1. Characters/Lushgut Forest/Mudgraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Characters/Lushgut Forest/Zihu.md",
+                "file": "1. Characters/Lushgut Forest/Mudgraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Characters/Lushgut Forest/Zihu.md"
+                "file": "1. Characters/Lushgut Forest/Mudgraw.md"
               }
             }
           }
@@ -168,16 +194,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6043526c2bc8c4f2",
+  "active": "6b558aa1062b8af4",
   "lastOpenFiles": [
-    "1. Characters/Lushgut Forest/Nesali.md",
-    "1. Characters/Lushgut Forest/Zihu.md",
     "Sessions/24 - Moonlit Mysteries and Mayhem.md",
-    "1. Characters/Lushgut Forest",
+    "1. Characters/Lushgut Forest/Nesali.md",
+    "1. Characters/Lushgut Forest/Mudgraw.md",
+    "Sessions/23 - Nature versus Nurture.md",
+    "2. Locations/Lushgut Forest/Sanctuary of Perpetual Tides.md",
+    "2. Locations/Lushgut Forest/Taruun Goliath village.md",
+    "2. Locations/Lushgut Forest/Lushgut Forest.md",
+    "Sessions/28 - Session 28.md",
     "Sessions/25 - Moonlight Croaknata.md",
+    "2. Locations/Lushgut Forest/Briarblaze Heart temple.md",
+    "2. Locations/Lushgut Forest/Yuan-ti temple.md",
+    "1. Characters/Lushgut Forest/Zihu.md",
+    "2. Locations/Lushgut Forest",
+    "1. Characters/Lushgut Forest",
     "1. Characters/The Party/Stormbreaker.md",
     "1. Characters/The Party/T'hau.md",
-    "Sessions/28 - Session 28.md",
     "Sessions/10 - Landmarks.md",
     "Sessions/27 - Session 27.md",
     "1. Characters/The Party/Rayna Khatri.md",
@@ -190,13 +224,6 @@
     "Sessions/1 - Twinward Ambush.md",
     "Sessions/14 - Ultimatum.md",
     "Sessions/20 - Splintered Hulls.md",
-    "Sessions/23 - Nature versus Nurture.md",
-    "1. Characters/Serpent's Tide Crew/Big Neela.md",
-    "1. Characters/Port Zoon/Lorenzo.md",
-    "1. Characters/Port Damali/Isol.md",
-    "1. Characters/Port Damali/Alma Hyllyndre.md",
-    "1. Characters/Nicodranas/Tamulia.md",
-    "1. Characters/Nicodranas/Sister Pherria.md",
     "1. Characters/Miscellaneous",
     "0. Assets/Misc/First Gunner.jpg",
     "0. Assets/Characters/alma.png",
@@ -214,7 +241,6 @@
     "1. Characters/Golden Chain",
     "1. Characters/Port Zoon",
     "1. Characters/Gravid Archipelago",
-    "1. Characters/Clovis Concord",
-    "0. Assets/Misc"
+    "1. Characters/Clovis Concord"
   ]
 }

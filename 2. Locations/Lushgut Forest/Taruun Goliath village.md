@@ -1,0 +1,1 @@
+A goliath village on an island in [[Lushgut Forest]].

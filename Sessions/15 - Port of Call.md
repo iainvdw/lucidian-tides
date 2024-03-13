@@ -48,7 +48,7 @@ Rayna points out it’s not very nice to sell them a cursed ring, suggesting the
 
 They then head back towards the bakery, Yves meeting them outside, ready to guide them towards the Pearl Shine temple to Avandra. The temple is massive, surrounded by statues of elven figures looking out into the distance. There are numerous places of prayers, the group noting the name Alkhamar on a specific area of the building. Yves pointed out before that the Alkhamar family is very involved in the temple, as well as in a lot of city affairs.
 
-The group is eventually approached by an elder pallid elf, an acolyte of the temple. Mal shares they heard of what happened to their priestess, adding they’ve heard rumors of other attempts at kidnapping religious leaders. The elf asks if these other leaders were followers of the Wildmother, which Mal confirms. The pallid elf pulls another acolyte into the conversation. The two of them share a look, the pallid elf saying she thinks Navarr is after what’s buried in the Lushgut Forest. 
+The group is eventually approached by an elder pallid elf, an acolyte of the temple. Mal shares they heard of what happened to their priestess, adding they’ve heard rumors of other attempts at kidnapping religious leaders. The elf asks if these other leaders were followers of the Wildmother, which Mal confirms. The pallid elf pulls another acolyte into the conversation. The two of them share a look, the pallid elf saying she thinks Navarr is after what’s buried in the [[Lushgut Forest]]. 
 
 The elf asks why they’re interested in this, Rayna claiming they’re concerned citizens, Mal adding she and Doloris are also followers of the Wildmother. The elf leads them to a more secure location, down to cold catacombs that look ancient. 
 

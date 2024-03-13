@@ -1,0 +1,1 @@
+Forest on the far west side of the [[Menagerie Coast]]. We went there in search of the Briarblaze Heart.

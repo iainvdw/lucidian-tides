@@ -56,7 +56,7 @@ We wake up and get some breakfast. [[Doloris]] asks [[Mallory Calder|Mal]] if sh
 
 Doloris and Mal leave the table and have another look at the map. Doloris tells Mal that it is the Briarblaze Heart and someone else is after it too, as she learned from her patron, Lady Melora. They get to work on deciphering the map and manage to make some more progress. They learn that the sky on the scroll points to a date connected to Lady Melora, named Wild's Grandeur, which is on an equinox on the 20th day of third month. They figure they have just missed that mark, as it's early spring now. 
 
-They manage to take that day and the sky pictured on the scroll, which seems to point to a more specific location on the Menagerie Coast, the Lushgut Forest. Doloris recalls stories of Melora fighting Zehir and Bane there. The forest itself was a prison created by Melora to keep followers of Zehir and Bane locked in. Also heard rumours about hundreds of Melora's followers who sacrificed themselves during this battle, which seem related to the hands depicted in the Briarblaze symbol.
+They manage to take that day and the sky pictured on the scroll, which seems to point to a more specific location on the Menagerie Coast, the [[Lushgut Forest]]. Doloris recalls stories of Melora fighting Zehir and Bane there. The forest itself was a prison created by Melora to keep followers of Zehir and Bane locked in. Also heard rumours about hundreds of Melora's followers who sacrificed themselves during this battle, which seem related to the hands depicted in the Briarblaze symbol.
 
 ## Looking for _business_
 

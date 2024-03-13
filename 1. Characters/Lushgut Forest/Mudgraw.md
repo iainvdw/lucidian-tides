@@ -1,0 +1,1 @@
+A tortle we encountered in the [[Sanctuary of Perpetual Tides]], a tortle village on an island in the [[Lushgut Forest]].

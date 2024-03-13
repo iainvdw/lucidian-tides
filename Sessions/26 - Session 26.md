@@ -38,7 +38,7 @@ The crew discusses their options, deciding to go get Neferia. Artimitei asks if 
 
 They head back the way they came, the mists now gone, the portraits of the two angels and a child now clearly Artimitei, Ukaviel and their daughter, Anahita. Neferia joins the group back for a moment, saying goodbye to her son after asking him to navigate them back to the Thane. Neferia heads back, Zima begins leading the way out, the crew following him out. 
 
-They spot Mudgraw taking a nap, T’hau waking him up. Mudgraw agrees to come with them, Zimu beginning to lead the way.  
+They spot [[Mudgraw]] taking a nap, T’hau waking him up. Mudgraw agrees to come with them, Zimu beginning to lead the way.  
 
 They travel, coming across a group of six very large boars, one of them seemingly snacking on a corpse. They decide to go around, Rayna’s magic helping the group keep quiet. They come closer to where they need to be, Zimu talking the group through some of the options for approach. There’s a main entrance to the pyramid like temple, there’s also a back entrance that’s guarded, as well as an underwater entrance that he thinks isn’t guarded.
 

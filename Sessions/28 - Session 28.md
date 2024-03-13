@@ -10,7 +10,7 @@ Nasali jumps up and hugs Zihu, the angel looks at the others with big eyes, aski
 
 They decide to finish the prayer, then take a look at the dagger. The angel closes her eyes and hovers and eventually something appears in the center of the room. A golden circle with thorns and roses, within it a bright white light made up out of dozens and dozens of animated hands, reaching up to form a flame. Nasali and Mal start the prayer as Storm and Rayna excuse themselves from the room.  
 
-The prayer comes to an end, spectral vines covering the room. A quiet comes over the room, and Mal feels like she’s flowing. Mal stares into a bright light, feels an embrace, a connection to the Wildmother she has not yet felt before. For a moment, she feels connected to the entire Lushgut Forest. A moment later, the vines retreat back into the heart, completing the prayer. 
+The prayer comes to an end, spectral vines covering the room. A quiet comes over the room, and Mal feels like she’s flowing. Mal stares into a bright light, feels an embrace, a connection to the Wildmother she has not yet felt before. For a moment, she feels connected to the entire [[Lushgut Forest]]. A moment later, the vines retreat back into the heart, completing the prayer. 
 
 Artimitei confirms the prayer is completed, then says she would be lying if she wasn’t looking forward to seeing her wife and child again. Doloris reaches out to the voice within the Long Fang of Night, who greets her by calling her the God Botherer. Refers to Melora as the nature bitch. Doloris asks Sizlifeth if they collect souls; they confirm they can indeed do that once they’ve bonded with their wielder. There are souls imprisoned now. Doloris asks for them back, specifically Ukaviel and Anahita. Sizlifeth seems reluctant to part with them.
 
@@ -40,11 +40,11 @@ She goes on to say she doesn’t feel much different; except the warmth is gone.
 
 They realise she can still heal, but it’s not as potent as before. As they retire for the night, Doloris asks if sleep will bring her warmth back. Mal promises her they’ll make sure it does.  
 
-The following morning, they get ready to head back to the ship. They are provided with a way to get there by the angels. Nasali and Zihu ask to come with the crew, the crew suggesting some places for them to stay. Mudgraw says they would have a place in the tortle village should they wish to stay there.
+The following morning, they get ready to head back to the ship. They are provided with a way to get there by the angels. Nasali and Zihu ask to come with the crew, the crew suggesting some places for them to stay. [[Mudgraw]] says they would have a place in the tortle village should they wish to stay there.
 
 The crew says their goodbyes to Mudgraw as well as the two yuan-ti, who decide to stay at the tortle monastery. They ask Doloris to come visit if she can, which she promises she will. 
 
-Soon, the crew find themselves back aboard the Serpent’s Tide.  
+Soon, the crew find themselves back aboard [[The Serpent's Tide]].  
 
 They tell [[Captain Cassian Sariel de Rochefort|the captain]] they succeeded in why they came here. He shares the [[Plank Queen Yucalia|Plank Queen]] contacted him yesterday, her suggestion is they come back to Darktow and she’s calling a conclave. The situation in Nicodranas and such hasn’t improved. The conclave likely means a big decision will have to be made. 
 
