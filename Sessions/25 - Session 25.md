@@ -1,7 +1,7 @@
 Combat. They defeat the Grung, one of them escaping. 
 
-T’hau speaks to the yuan-ti, Mal picking up one of the Grung’s staff, deducing it’s magical (Staff of Swarming Insects). The yuan-ti explain they came here because of a calling from their respective deities, by themselves. Then, they encountered the Grung. Nesalli saw visions of dying nature, heard a voice on the wind. Zihu saw the bigger moon, Catha, being overtaken by Ruidus, and heard a similar voice on the wind. This is why they left the Fane.  
-Mal gives the Staff of Swarming Insects to Rayna, then goes back to trying to figure out the riddle.
+[[T'hau|T’hau]] speaks to the yuan-ti, [[Mallory Calder|Mal]] picking up one of the Grung’s staff, deducing it’s magical (Staff of Swarming Insects). The yuan-ti explain they came here because of a calling from their respective deities, by themselves. Then, they encountered the Grung. Nesalli saw visions of dying nature, heard a voice on the wind. Zihu saw the bigger moon, Catha, being overtaken by Ruidus, and heard a similar voice on the wind. This is why they left the Fane.  
+Mal gives the Staff of Swarming Insects to [[Rayna Khatri|Rayna]], then goes back to trying to figure out the riddle.
 
 Re-reading the riddle and some more of the writings, Mal figures out the four circular stones can be moved so they match up with the compass and the map. One of them is already in the right position. Storm and T’hau move a second one into place, which makes the runes on one of the arches on the side light up, a grey silvery glow in the middle of it.
 
@@ -10,7 +10,7 @@ The echo returns unharmed.
 
 As it seemed like there wasn’t much there through the portal, they decide to try and keep moving the other stones. All four lock into place, both archways lighting up. The silvery light starts to leak out of the portals towards the stonework in the center, meeting in a flash of blinding white light. 
 
-Rayna, who is in the center when this happens, disappears. Mal, Storm and T’hau head towards the center, but can’t seem to find her. Mal suggests they turn one of the stones away from the right rune and then back again, but Doloris points out there’s a way through the archways, through which she sees Rayna.
+Rayna, who is in the center when this happens, disappears. Mal, Storm and T’hau head towards the center, but can’t seem to find her. Mal suggests they turn one of the stones away from the right rune and then back again, but [[Doloris]] points out there’s a way through the archways, through which she sees Rayna.
 
 Rayna finds herself elsewhere. There’s text, speaking of divine tests. 
 Hone your soul in tests divine, 

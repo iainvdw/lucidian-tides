@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Characters/Serpent's Tide Crew/Captain Cassian Sariel de Rochefort.md",
+                "file": "Sessions/28 - Session 28.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,13 +94,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Characters/Serpent's Tide Crew/Captain Cassian Sariel de Rochefort.md",
+                "file": "Sessions/28 - Session 28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Characters/Serpent's Tide Crew/Captain Cassian Sariel de Rochefort.md",
+                "file": "Sessions/28 - Session 28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Characters/Serpent's Tide Crew/Captain Cassian Sariel de Rochefort.md"
+                "file": "Sessions/28 - Session 28.md"
               }
             }
           }
@@ -156,8 +156,22 @@
   },
   "active": "b8db525263877293",
   "lastOpenFiles": [
-    "Sessions/28 - Session 28.md",
+    "1. Characters/The Party/T'hau.md",
+    "Sessions/10 - Landmarks.md",
+    "1. Characters/The Party/Stormbreaker.md",
+    "Sessions/27 - Session 27.md",
+    "1. Characters/The Party/Rayna Khatri.md",
+    "1. Characters/The Party/Mallory Calder.md",
+    "1. Characters/The Party/Doloris.md",
+    "1. Characters/Serpent's Tide Crew/Remmi Rattlebones.md",
+    "1. Characters/Serpent's Tide Crew/Odell Blackmoore.md",
+    "1. Characters/Serpent's Tide Crew/Julnar Norra.md",
     "1. Characters/Serpent's Tide Crew/Captain Cassian Sariel de Rochefort.md",
+    "Sessions/1 - Twinward Ambush.md",
+    "Sessions/14 - Ultimatum.md",
+    "Sessions/20 - Splintered Hulls.md",
+    "Sessions/23 - Nature versus Nurture.md",
+    "Sessions/28 - Session 28.md",
     "1. Characters/Serpent's Tide Crew/Big Neela.md",
     "1. Characters/Port Zoon/Lorenzo.md",
     "1. Characters/Port Damali/Isol.md",
@@ -168,20 +182,6 @@
     "1. Characters/Nicodranas/Nicodranas' Councillors.md",
     "1. Characters/Nicodranas/Lucienne de Montfort.md",
     "1. Characters/Nicodranas/Guillaume de Montfort.md",
-    "1. Characters/Nicodranas/Lord de Montfort.md",
-    "1. Characters/Myriad/Kirour Grimblade.md",
-    "1. Characters/Nicodranas/Eda Donegal.md",
-    "1. Characters/Nicodranas/Gellan Primewater.md",
-    "1. Characters/Nicodranas/First Sergeant Brehkan.md",
-    "1. Characters/Nicodranas/Eliander de Matiz.md",
-    "1. Characters/Nicodranas/Commodore Balthair de Modesto.md",
-    "1. Characters/Nicodranas/Captain Thuillian.md",
-    "1. Characters/Nicodranas/Ava.md",
-    "1. Characters/Myriad/Heltur Ribbond.md",
-    "1. Characters/Gravid Archipelago/‘Ole Thick.md",
-    "1. Characters/Miscellaneous/Uqaviel the Requiant.md",
-    "Sessions/10 - Landmarks.md",
-    "1. Characters/Golden Chain/Yuzza Ribbond.md",
     "1. Characters/Miscellaneous",
     "0. Assets/Misc/First Gunner.jpg",
     "0. Assets/Characters/alma.png",

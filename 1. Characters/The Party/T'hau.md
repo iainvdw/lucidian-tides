@@ -1,6 +1,13 @@
-|Head|Full body|
-|---|---|
-|![[thau.jpg]]|![[thau-3d-beach.jpg]]|
+---
+aliases:
+  - Thau
+  - crab
+  - T’hau
+---
+
+| Head          | Full body              |
+| ------------- | ---------------------- |
+| ![[thau.jpg]] | ![[thau-3d-beach.jpg]] |
 
 Class: Fighter
 

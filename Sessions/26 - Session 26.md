@@ -1,4 +1,4 @@
-Doloris approaches her mural, finding a smooth gemstone within the gash across the mural’s heart. Her vision takes her to close to her ancestral home of Brokenbank. She is running towards her childhood friend, Zima. They play catch, Doloris’ friend throwing the ball a little too far, towards the cliff’s edge. She goes looking for the ball, finding it stuck in a bush a little way down along the cliff.
+[[Doloris]] approaches her mural, finding a smooth gemstone within the gash across the mural’s heart. Her vision takes her to close to her ancestral home of Brokenbank. She is running towards her childhood friend, Zima. They play catch, Doloris’ friend throwing the ball a little too far, towards the cliff’s edge. She goes looking for the ball, finding it stuck in a bush a little way down along the cliff.
 
 She considers using her wings, despite her father having warned her against doing so, as people may look at her differently. She pops out her wings regardless. 
 
@@ -10,11 +10,11 @@ Doloris wakes from her vision, the gemstone she first touched unchanged. As she 
 
 Neferia talks about the vision she saw, about how she was handed a map. She’s been here before, she’s prayed at the Briarblaze. She brought her son along and she doesn’t think she should have. She recalls what’s through the other door a misty maze, with a room with an angel at the end, which allows one to pray at the heart. Once they did that, their map was gone, and they were left in the jungle. 
 
-Neferia then turns to Mal, asking her what year it is. Apparently the last time she was here, was over six years ago. She did what the group is trying to do, but then her map and compass were gone and she was snatched by yuan-ti.  
+Neferia then turns to [[Mallory Calder|Mal]], asking her what year it is. Apparently the last time she was here, was over six years ago. She did what the group is trying to do, but then her map and compass were gone and she was snatched by yuan-ti.  
 
 The group discusses this, deciding to keep going. Everyone moves forward and puts their offerings down at the door Neferia pointed out, a door opening, revealing a swirling miasma of mist. Neferia and Zima decide to stay back, as they have a lot of catching up to do.  
 
-Storm takes the lead, the others following closely behind. Their footsteps sound muffled and Storm can spell gunpowder in the distance. As T’hau follows after Stormbreaker, they don’t see him. Glowing in the mist, T’hau sees three glowing eyes in the mist, way up ahead. Mal sees Storm and T’hau disappear into the mists, then hears voices, her sister giggling. Doloris sees everyone disappear as well, the smoke she’s stepping into seems of a holy divine light. As Rayna steps in last, she can feel heat around her. 
+Storm takes the lead, the others following closely behind. Their footsteps sound muffled and Storm can spell gunpowder in the distance. As [[T'hau|T’hau]] follows after [[Stormbreaker]], they don’t see him. Glowing in the mist, T’hau sees three glowing eyes in the mist, way up ahead. Mal sees Storm and T’hau disappear into the mists, then hears voices, her sister giggling. Doloris sees everyone disappear as well, the smoke she’s stepping into seems of a holy divine light. As [[Rayna Khatri|Rayna]] steps in last, she can feel heat around her. 
 
 Separated, each member of the crew tries to find their way through this mist. Using the map to shed some light on the mist around her, Mal manages to clear some of the mist and notices patterns of two angels and a child. 
 

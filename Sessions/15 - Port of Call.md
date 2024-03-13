@@ -1,17 +1,17 @@
-The Serpent’s Tide has been en route to Port Damali for three days. They spot a storm near Port Zoon, as well as a pair of sails near the horizon. The ship bears the flag of Nicodranas, with heraldry of House de Montfort. The crew briefly discusses, deciding to try and ‘lay low’ and see what happens, as Mal points out it’s technically a merchant vessel. 
+The Serpent’s Tide has been en route to Port Damali for three days. They spot a storm near Port Zoon, as well as a pair of sails near the horizon. The ship bears the flag of Nicodranas, with heraldry of House de Montfort. The crew briefly discusses, deciding to try and ‘lay low’ and see what happens, as [[Mallory Calder|Mal]] points out it’s technically a merchant vessel. 
 The name of the ship is the Oroboriosa, with the figurehead of a woman and two snakes. It sails past without making any aggressive moves. 
 
 The crew discusses pastries and surfing shenanigans.
 
-Doloris manages to cut some time off their journey by plotting a different course. They pass by the Twinward Isles. From the islands, they see a group of furry, flying creatures: tiny flying monkeys. They dive down towards the ship, two of them stealing an eyepatch from Remmi, most of them flying off after this attempt. 
+[[Doloris]] manages to cut some time off their journey by plotting a different course. They pass by the Twinward Isles. From the islands, they see a group of furry, flying creatures: tiny flying monkeys. They dive down towards the ship, two of them stealing an eyepatch from [[Remmi Rattlebones|Remmi]], most of them flying off after this attempt. 
 
-Mal takes over the crow’s nest from Remmi, one of the monkeys making its way up to her and staring at her. Doloris goes to find Rayna to ask for her help with dealing with the monkeys. Mal feeds the flying monkey that’s still staring at her, and it sticks around. 
+Mal takes over the crow’s nest from Remmi, one of the monkeys making its way up to her and staring at her. Doloris goes to find [[Rayna Khatri|Rayna]] to ask for her help with dealing with the monkeys. Mal feeds the flying monkey that’s still staring at her, and it sticks around. 
 
-Eventually, they reach Tyoden Bay, where Port Damali is located. The military presence of the Clovis Concord is immediately visible in the harbor. It strikes Stormbreaker as strange there’s such a big presence here; this sort of presence blocks commerce, which the city wonn’t like. 
+Eventually, they reach Tyoden Bay, where Port Damali is located. The military presence of the Clovis Concord is immediately visible in the harbor. It strikes [[Stormbreaker]] as strange there’s such a big presence here; this sort of presence blocks commerce, which the city wonn’t like. 
 
 They decide to approach and ask entry to port, and are asked to wait. Most of the crew hide underneath the ship as Rayna wildshapes into a monkey, watching what goes on aboard the deck. 
 
-Eventually, a figure steps aboard, accompanied by some troops. Its an older, human male, with burly eyebrows and a goatee. He doesn’t look like he’s enjoying his current work. He introduces himself as Monseigneur Zinda, the harbormaster. He asks to speak to the captain, who steps forward. The captain explains they’re looking for some trade here, as well as some respite. Zinda and his troops inspect the ship, commenting on how empty the hold is. The captain comes up with an excuse that Zinda seems to believe.
+Eventually, a figure steps aboard, accompanied by some troops. Its an older, human male, with burly eyebrows and a goatee. He doesn’t look like he’s enjoying his current work. He introduces himself as Monseigneur Zinda, the harbormaster. He asks to speak to [[Captain Cassian Sariel de Rochefort|the captain]], who steps forward. The captain explains they’re looking for some trade here, as well as some respite. Zinda and his troops inspect the ship, commenting on how empty the hold is. The captain comes up with an excuse that Zinda seems to believe.
 The others attempt to stay hidden underneath the ship, Rayna spotting some other ship wardens aboard a different ship peering over the railing, seemingly having spotted something underneath the Serpent’s Tide.
 
 Still as a monkey, Rayna makes her way over there to try and steal one of their hats, hoping to pose a distraction. It seems to work. She runs off and back to safety. 
@@ -23,7 +23,7 @@ The Larboard Light harbour is on the smaller side, but lavish. There are smaller
 
 The ones hiding underwater manage to climb on board out of view, and the ship is assigned to a berth. The captain already paid the docking fees. It is now late afternoon. 
 
-T’hau excuses himself to head to the Cobalt Reserve, as he has some research to do. Those more familiar with Port Damali point him in the right way, before the others head towards the Beaded Alley in search of, amongst other things, pastries.
+[[T'hau|T’hau]] excuses himself to head to the Cobalt Reserve, as he has some research to do. Those more familiar with Port Damali point him in the right way, before the others head towards the Beaded Alley in search of, amongst other things, pastries.
 
 They find their way to Damali’s Delights, the bakery owned by Mal’s uncle, Yves. Yves is surprised to see Mal, but welcomes her with a hug as Stormbreaker attempts to sneak past to grab some pastries, but is instantly caught. Mal quickly briefs Yves on some of what happened in Nicodranas, before Yves calls down his husband, Elias. Introductions are made and the group is offered tea and freshly made pastries. 
 

@@ -1,8 +1,8 @@
-They cross the seabed, picking up on eerie sounds all around them. A large shadow swims past them. T’hau pokes their head into the water, trying to get a closer look at what kind of creature this is, but they don’t recognise it. They rush along the path as fast as they can.
+They cross the seabed, picking up on eerie sounds all around them. A large shadow swims past them. [[T'hau|T’hau]] pokes their head into the water, trying to get a closer look at what kind of creature this is, but they don’t recognise it. They rush along the path as fast as they can.
 
-They reach the other side and as they look back, some of the group note a scaled creature in the water, some hundred feet away from them. It seems to be a dragon. Mal deduces this is likely Omgar, the dragon this island and area is named after. 
+They reach the other side and as they look back, some of the group note a scaled creature in the water, some hundred feet away from them. It seems to be a dragon. [[Mallory Calder|Mal]] deduces this is likely Omgar, the dragon this island and area is named after. 
 
-The compass points them further into the woods. Before they proceed, Mudgraw suggests dividing up some tasks. Stormbreaker takes the lead on chopping some of the heavier foliage in their way, Rayna keeping an eye out as Doloris and Mal do their best to navigate. 
+The compass points them further into the woods. Before they proceed, Mudgraw suggests dividing up some tasks. [[Stormbreaker]] takes the lead on chopping some of the heavier foliage in their way, [[Rayna Khatri|Rayna]] keeping an eye out as [[Doloris]] and Mal do their best to navigate. 
 After about an hour, Rayna spots a now familiar glow, similar to the glowing astrolabe they found. The compass also points towards this.
 
 As they get closer, they spot a single petal of a flower underneath a beam of moonlight. It glows with a soft ethereal light. The compass points towards the flower now. T’hau pokes at the flower, as it moves more into the beam of light, the flower opens up. The heart of the flower pulses with a radiance. The flower unfurls, its petals animating around it. T’hau shakes of a mesmerizing effect of the flower. 

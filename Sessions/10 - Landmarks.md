@@ -1,19 +1,19 @@
 The next morning, the crew sets out towards the Lavish Chateau. The Opal Archways are clearly the wealthy part of town. Fencing has been placed around the building, which is partially collapsed. Two [[Zhelezo]] stand next to the building. They start looking for a subtle way inside. 
 
-They find a place in the fence that they can slip through. Mal talks to the guards as a distraction, leaving the others the opportunity to sneak in. They come out onto a decrepit looking deck with two large windows, though there’s no glass left in the windows. 
+They find a place in the fence that they can slip through. [[Mallory Calder|Mal]] talks to the guards as a distraction, leaving the others the opportunity to sneak in. They come out onto a decrepit looking deck with two large windows, though there’s no glass left in the windows. 
 Mal ‘follows’ the guards’ instructions on how to get to the [[Guillaume de Montfort|de Montfort]] estate, circling around to make it back to the others.
 
-The others find a way into the Lavish Chateau, noting some things like keys have been stolen, perhaps because they were made of valuable materials. There’s a foul smell, T’hau commenting on it as it reminds him of the smell in the other house they were in, where they found some devilish remnants. They talk about keeping quiet as much as possible and waiting for Mal to arrive, as none of them really know a lot about devils. 
+The others find a way into the Lavish Chateau, noting some things like keys have been stolen, perhaps because they were made of valuable materials. There’s a foul smell, [[T'hau|T’hau]] commenting on it as it reminds him of the smell in the other house they were in, where they found some devilish remnants. They talk about keeping quiet as much as possible and waiting for Mal to arrive, as none of them really know a lot about devils. 
 
 Mal joins the others and they start looking around. She tries to pick up on any signs of recent fiendish activity. There’s something in the room up ahead, a dripping sound. She also sees, melted into the floor, something shiny, not fiendish, but other planar. She also senses some seven fiendish presences nearby. 
 
-She points this out to the others. Doloris looks at the shiny object: it looks like a molten holy symbol, a large coin. Part of a female face is still on there, Doloris recognises it as Avandra. She goes to pick it up, but is hit with a psychic blast of all this item has seen. The visions she sees remind her of Avernus. She sees figures in the room, moving through the room they’re in. 
+She points this out to the others. [[Doloris]] looks at the shiny object: it looks like a molten holy symbol, a large coin. Part of a female face is still on there, Doloris recognises it as Avandra. She goes to pick it up, but is hit with a psychic blast of all this item has seen. The visions she sees remind her of Avernus. She sees figures in the room, moving through the room they’re in. 
 
 They decide to follow the visions Doloris saw, heading up the creaky stairs. They look through some of the rooms, not finding much at first. Doloris eventually finds a glowing ember in one of the rooms, Mal picking up on a lingering fiendish presence in the other room.
 
 Mal and T’hau investigate the presence. T’hau notices some footsteps in the dust in this room that lead up to the bath. T’hau and Mal thoroughly investigate the bathtub, which seems suspicious.
 
-Stormbreaker and Rayna continue investigating in the other direction. There’s a gap in the ceiling, there’s a lot of bird droppings in this area despite the ceiling not being open. Rayna thinks these are parrot droppings. 
+[[Stormbreaker]] and [[Rayna Khatri|Rayna]] continue investigating in the other direction. There’s a gap in the ceiling, there’s a lot of bird droppings in this area despite the ceiling not being open. Rayna thinks these are parrot droppings. 
 
 Doloris presses a hand to the wall on the other side, which changes the reflection that T’hau and Mal see in the water of the bath tub. T’hau recalls the dwarven henchmen of [[Kirour Grimblade|Kirour]] who had a ring, which he thinks might help with this. The ring was tied to the fiendish parrot, and the dwarf made a pact whilst in Avernus. He asks Doloris if she still has the ring on her, which she confirms. 
 
@@ -55,4 +55,4 @@ At the ship, Doloris holds up the folder with papers she found. They head into t
 They take the documents to [[Gellan Primewater|Gellan]] and Eda later, after having the infernal ones translated as well. They share what happened at the Lavish Chateau with Gellan and Eda as well. Eda promises them she’ll look after them as far as the Zhelezo goes. 
 
 T’hau asks Gellan and Eda what their end goal is with Guillaume. They say that with the paperwork provided, they could try and get both Guillaume and [[Commodore Balthair de Modesto|de Modesto]] replaced, hopefully with people who have the actual wellbeing of the people of Nicodranas in mind. The crew does advice against Gellan and Eda showing these documents at the next meeting, as Alvaro will be present, and they know he’s involved with the Golden Chain. 
-Gellan shares with the crew that he’s been talking with the captain as well, and they’ve set up fully legal trades for the Serpent’s Tide. 
+Gellan shares with the crew that he’s been talking with [[Captain Cassian Sariel de Rochefort|the captain]] as well, and they’ve set up fully legal trades for the Serpent’s Tide. 

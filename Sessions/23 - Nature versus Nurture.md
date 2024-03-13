@@ -1,20 +1,20 @@
 After making sure the ship is likely fine at anchor in a bay, the crew start crossing the beach towards the tree line. They take note of some strange looking flora in the area, sweet scented flowers. The jungle floor is covered with dead leafs. 
 
-Doloris spots movement near some of the local plants. Mal takes a closer look, spotting a small creature with inky black skin with white markings. It teleports, then points at the storm. It then teleports again, appearing atop Doloris’ head. It seems to approve of their plan to move into the forest and they move in.
+[[Doloris]] spots movement near some of the local plants. [[Mallory Calder|Mal]] takes a closer look, spotting a small creature with inky black skin with white markings. It teleports, then points at the storm. It then teleports again, appearing atop Doloris’ head. It seems to approve of their plan to move into the forest and they move in.
 
 It teleports again, with Doloris this time, then points them deeper into the jungle. 
 
-The storm eventually hits, though the crew is relatively sheltered underneath the canopy of the trees. The creature guides them further into the jungle. Rayna eventually sees warm light up ahead, likely some form of civilization. They see a building on stilts, built in the sand, which looks like a somewhat fancy place. There’s silhouettes of creatures shambling around, shaped like giant humanoid tortoises. 
+The storm eventually hits, though the crew is relatively sheltered underneath the canopy of the trees. The creature guides them further into the jungle. [[Rayna Khatri|Rayna]] eventually sees warm light up ahead, likely some form of civilization. They see a building on stilts, built in the sand, which looks like a somewhat fancy place. There’s silhouettes of creatures shambling around, shaped like giant humanoid tortoises. 
 
 They briefly discuss approaching this place, before doing so, Doloris Misty Stepping away from their conversation courtesy of her new charm. One of the tortles steps outside, having noticed their arrival. He wears a number of talisman around his neck. The tortle asks about the ship, Doloris confirming they did arrive here via said ship. 
 
-The tortle asks if Stormbreaker is from the tribe of Taruun, a tribe that lives on this island, near the geysers. It doesn’t ring any bells for Stormbreaker. The tortle then introduces themselves as Uday, welcoming them to the Sanctuary of Perpetual Tides. He then shows them around the place. 
+The tortle asks if [[Stormbreaker]] is from the tribe of Taruun, a tribe that lives on this island, near the geysers. It doesn’t ring any bells for Stormbreaker. The tortle then introduces themselves as Uday, welcoming them to the Sanctuary of Perpetual Tides. He then shows them around the place. 
 
 They’re shown to the galley, where food is provided as well. Another tortle, Mudgraw, introduces himself as well. Uday and Mudgraw explain they protect a number of tide pools in the area. They mention rumors that Omgar is the one who causes the storms, but there’s also ones that say the tribe of Storm Giants are to blame. Doloris asks about the snake people, the tortles saying they don’t stay on the islands anymore; they were driven off the island by some Naga.
 
 Uday asks why the crew is here, Doloris telling him they’re on a mission for Melora. Uday shares that there were other people here maybe a month ago, seemed like soldiers. They ask about a trail that starts here; Uday says that the soldiers were also looking for that. He then excuses himself after telling the group where their rooms are for the night. 
 
-Mudgraw returns, asking if any of the group may want some alcohol. He admits that he’s usually the one who leaves this sanctuary to explore the jungle surrounding it. Doloris, T’hau and the captain join him for a drink. Mudgraw shares his seemingly somewhat illegal alcohol with them, then soon excuses himself as he has to get to his shift. Doloris, T’hau and the captain agree that Mudgraw might be a good guide as he’s seen more of the island. They then talk about using the map tomorrow to see if it’ll tell them anything more.
+Mudgraw returns, asking if any of the group may want some alcohol. He admits that he’s usually the one who leaves this sanctuary to explore the jungle surrounding it. Doloris, [[T'hau|T’hau]] and [[Captain Cassian Sariel de Rochefort|the captain]] join him for a drink. Mudgraw shares his seemingly somewhat illegal alcohol with them, then soon excuses himself as he has to get to his shift. Doloris, T’hau and the captain agree that Mudgraw might be a good guide as he’s seen more of the island. They then talk about using the map tomorrow to see if it’ll tell them anything more.
 
 They discuss how much they can trust the tortles, and how they can maybe ask for the recipe of the alcohol. The captain then suggests they should head back to Darktow at some point, to figure out the plan with Nicodranas and Port Damali. 
 

@@ -1,14 +1,14 @@
-The crew is rudely awakened by a town crier, yelling about how people should bring forth information on Louise de Montfort and her connection to a crime against a noble family. There’s a thousand gold reward for it. 
+The crew is rudely awakened by a town crier, yelling about how people should bring forth information on [[Mallory Calder|Louise]] de Montfort and her connection to a crime against a noble family. There’s a thousand gold reward for it. 
 
-Doloris chases after the town crier to try and catch up with him. She pretends to be annoyed with him because it’s so early, he seems willing to move along as long as Doloris gives him some money. She finds some gold in her pocket and pays him, so he takes his leave. 
+[[Doloris]] chases after the town crier to try and catch up with him. She pretends to be annoyed with him because it’s so early, he seems willing to move along as long as Doloris gives him some money. She finds some gold in her pocket and pays him, so he takes his leave. 
 
-She gets a closer look at the pamphlet the crier is holding. It’s a drawing of Mal, with some wanted lettering detailing the amount of money that [[Guillaume de Montfort|de Montfort]] family is willing to spend. It also says ‘any and all information inquiries redirected at Montfort Estate’ with a name attached, Cecelin Auvrindar. 
+She gets a closer look at the pamphlet the crier is holding. It’s a drawing of [[Mallory Calder|Mal]], with some wanted lettering detailing the amount of money that [[Guillaume de Montfort|de Montfort]] family is willing to spend. It also says ‘any and all information inquiries redirected at Montfort Estate’ with a name attached, Cecelin Auvrindar. 
 
 Doloris returns to the ship and shares the news with the rest of the group. Mal shares that she does recognize Cecilin’s name: it’s her old nanny who now runs most of the de Montfort household. 
 
 The crew discuss what to do about this. Mal suggests that the others check out the tannery as planned, she will find [[Obaya]] at the temple to Melora and warn her about Alvaro coming. [[Big Neela]] will accompany her, as the others don’t like Mal setting out on her own. 
 
-Doloris, T’hau, Stormbreaker and Rayna set out towards the tannery. They spot the crier again, who seems to be getting some abuse from the people around; they don’t seem to be his biggest fans.
+Doloris, [[T'hau|T’hau]], [[Stormbreaker]] and [[Rayna Khatri|Rayna]] set out towards the tannery. They spot the crier again, who seems to be getting some abuse from the people around; they don’t seem to be his biggest fans.
 
 They eventually reach Nivor’s Tannery. The square here is filled with large, round tubs, most of them empty. Several have a soot stain around them, seemingly indicating a blast radius. The surrounding bricks have acid damage. 
 

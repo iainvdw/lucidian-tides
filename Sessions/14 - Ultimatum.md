@@ -1,4 +1,4 @@
-T’hau can’t sleep, finding themselves on deck of the Dragonfly, staring out over the ocean. He’s pouring over a map and an old book he found in the naval academy. The Wild Rose’s quartermaster is the author of the book. 
+[[T'hau|T’hau]] can’t sleep, finding themselves on deck of the Dragonfly, staring out over the ocean. He’s pouring over a map and an old book he found in the naval academy. The Wild Rose’s quartermaster is the author of the book. 
 
 > 16 Horisal, 532 PD.
 > 
@@ -17,7 +17,7 @@ T’hau can’t sleep, finding themselves on deck of the Dragonfly, staring out 
 > 
 > Ruidus made it worse. The Rose now lies at the bottom of Slumber Reef in dagger bay. Me and the other survivors marked it with a red buoy. For any future expedition to the wreck that hopes to find information about what happened; you will find only death. 
 
-Everyone eventually gets some sleep and they all wake up the following morning. Mal suggests that, if they want to make their way back to Nicodranas, they could see if they can get aboard the Serpent’s Tide, pretend to have been aboard the whole time. Doloris sends a message to Captain Cassian to arrange a rendez-vouz.
+Everyone eventually gets some sleep and they all wake up the following morning. [[Mallory Calder|Mal]] suggests that, if they want to make their way back to Nicodranas, they could see if they can get aboard the Serpent’s Tide, pretend to have been aboard the whole time. [[Doloris]] sends a message to [[Captain Cassian Sariel de Rochefort|Captain Cassian]] to arrange a rendez-vouz.
 
 They set off aboard the Dragonfly, traveling towards where they roughly agreed to meet up with the Serpent’s Tide. The two ships meet in the night, the two captains greeting each other heartily. 
 
@@ -31,7 +31,7 @@ The room erupts in protests, which Alvaro shuts down. He tells to Navarr, tellin
 
 Later that day, the crew approaches Nicodranas. Through thick smoke hanging low on the ground, Doloris notes that the Restless Wharf is in ruins. There’s a discussion about options, with T’hau eventually suggesting that they should set fire to the two man-o-wars clearly responsible for what happened here. The others are quick to agree, none of them okay with sitting idly by. 
 
-They quickly decide to put this plan into action now, as they still have cover of the thick smoke hanging over the Restless Wharf. The captain and the rest of the crew will continue casually sailing, delivering their goods to Primewater as if nothing is amiss, whilst the others divide themselves up into two group: Stormbreaker and Rayna are one group, T’hau, Mal and Doloris are another. The two groups slip into the water unnoticed and approach the two man-o-wars from underwater. 
+They quickly decide to put this plan into action now, as they still have cover of the thick smoke hanging over the Restless Wharf. The captain and the rest of the crew will continue casually sailing, delivering their goods to Primewater as if nothing is amiss, whilst the others divide themselves up into two group: [[Stormbreaker]] and [[Rayna Khatri|Rayna]] are one group, T’hau, Mal and Doloris are another. The two groups slip into the water unnoticed and approach the two man-o-wars from underwater. 
 
 Stormbreaker and Rayna approach the Chimera, as T’hau, Mal and Doloris approach the Adjudicator. Stormbreaker and T’hau get ready to open one of the gunports, the two groups sharing a nod before they both try and enter simultaneously. 
 

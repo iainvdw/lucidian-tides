@@ -1,8 +1,8 @@
-[[Ava]] asks Mal to knock her unconscious; Mal instead suggests Ava fakes being unconscious. Mal uses druidcraft to craft some pigmented flowers, faking the bruise colors on Ava’s face. Ava warns the others the guard change will be in six minutes.
+[[Ava]] asks [[Mallory Calder|Mal]] to knock her unconscious; Mal instead suggests Ava fakes being unconscious. Mal uses druidcraft to craft some pigmented flowers, faking the bruise colors on Ava’s face. Ava warns the others the guard change will be in six minutes.
 
-Meanwhile, Stormbreaker notes an empty spell scroll and a grappling hook on Yuzza’s body. T’hau and Doloris note some opened file cabinets in that same room. Doloris notices Temulia’s sentence on the desk: forceful abstraction. It speaks of treason and conspiracy with the Revelry. 
+Meanwhile, [[Stormbreaker]] notes an empty spell scroll and a grappling hook on Yuzza’s body. [[T'hau|T’hau]] and [[Doloris]] note some opened file cabinets in that same room. Doloris notices Temulia’s sentence on the desk: forceful abstraction. It speaks of treason and conspiracy with the Revelry. 
 
-Rayna notes something strange about a painting, pulling it away, revealing a secret door. They move through the building towards where they know the stairs are that should lead up to the vault. 
+[[Rayna Khatri|Rayna]] notes something strange about a painting, pulling it away, revealing a secret door. They move through the building towards where they know the stairs are that should lead up to the vault. 
 
 They eventually end up in a hallway with two doors. They seem magically locked, Rayna dispels the magic on both doors. T’hau and Mal head through the door on the left as Doloris opens the door to the right, which sets off a trap. The room on the right contains seven columned vaults, the room on the left contains a number of cabinets.
 

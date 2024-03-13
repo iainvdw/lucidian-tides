@@ -1,12 +1,12 @@
-The yuan-ti that come running in are unconvinced by Storm’s words and they all ready their bows, taking shots at the group. This knocks Storm and Doloris unconscious, the others scrambling to try and keep them safe as Talesh walks in, who isn’t necessarily helping them either. 
+The yuan-ti that come running in are unconvinced by Storm’s words and they all ready their bows, taking shots at the group. This knocks Storm and [[Doloris]] unconscious, the others scrambling to try and keep them safe as Talesh walks in, who isn’t necessarily helping them either. 
 
-There’s tension as the yuan-ti talk amongst themselves, most of them unsure as one of their leaders was just killed. Doloris, after Rayna manages to heal her and Storm, points out Talesh was the one who told them to do this. This prompts another volley of arrows as tensions between the yuan-ti rises even more. 
+There’s tension as the yuan-ti talk amongst themselves, most of them unsure as one of their leaders was just killed. [[Doloris]], after [[Rayna Khatri|Rayna]] manages to heal her and Storm, points out Talesh was the one who told them to do this. This prompts another volley of arrows as tensions between the yuan-ti rises even more. 
 
 Realising they’re in no shape to fight more people, the crew start looking for a way out. Rayna spells out the issue with the yuan-ti power struggles, then says they’re leaving, ushering everyone out the door.  
 
-They manage to escape the ziggorat and start finding their way back to the temple. They rest up briefly, despite Stormbreaker claiming he’s fine and saying his organs have shifted. Doloris tells the others what the dagger told her. They eventually keep going, finding their way back to the temple. 
+They manage to escape the ziggorat and start finding their way back to the temple. They rest up briefly, despite [[Stormbreaker]] claiming he’s fine and saying his organs have shifted. Doloris tells the others what the dagger told her. They eventually keep going, finding their way back to the temple. 
 
-Nasali jumps up and hugs Zihu, the angel looks at the others with big eyes, asking if they have it. They tell her they do, but Mal points out that there’s another entity of sorts inside the dagger as well.
+Nasali jumps up and hugs Zihu, the angel looks at the others with big eyes, asking if they have it. They tell her they do, but [[Mallory Calder|Mal]] points out that there’s another entity of sorts inside the dagger as well.
 
 They decide to finish the prayer, then take a look at the dagger. The angel closes her eyes and hovers and eventually something appears in the center of the room. A golden circle with thorns and roses, within it a bright white light made up out of dozens and dozens of animated hands, reaching up to form a flame. Nasali and Mal start the prayer as Storm and Rayna excuse themselves from the room.  
 
@@ -48,4 +48,4 @@ Soon, the crew find themselves back aboard the Serpent’s Tide.
 
 They tell [[Captain Cassian Sariel de Rochefort|the captain]] they succeeded in why they came here. He shares the [[Plank Queen Yucalia|Plank Queen]] contacted him yesterday, her suggestion is they come back to Darktow and she’s calling a conclave. The situation in Nicodranas and such hasn’t improved. The conclave likely means a big decision will have to be made. 
 
-They set sail to Darktow.
+Finally, they set sail to Darktow.

@@ -4,6 +4,7 @@ aliases:
   - Sariel
   - Cassian
   - the captain
+  - Captain Cassian
 ---
 ![[captain-sariel.png]]
 

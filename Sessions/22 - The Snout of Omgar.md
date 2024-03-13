@@ -1,8 +1,8 @@
 Combat starts at the Cobalt Reserve. [[Isol]] puts the fire out properly after the last [[Zhelezo]] flee the building. They seek out Cobalt Soul leadership to talk about what happened, Elkael the wizard joining them, as well as Darmin.  
 
-Aboard the ship, Rayna and Mal talk about how weird the crew is. They then seek out the others, Rayna wanting to try out if she can ‘make Stormbreaker move somewhere he doesn’t want to go’, as Mal told her he likely wouldn’t. She takes the point a little too literally, but does manage to push Stormbreaker down to the ground, slightly aided by the fact he seems drunk. 
+Aboard the ship, [[Rayna Khatri|Rayna]] and [[Mallory Calder|Mal]] talk about how weird the crew is. They then seek out the others, Rayna wanting to try out if she can ‘make [[Stormbreaker]] move somewhere he doesn’t want to go’, as Mal told her he likely wouldn’t. She takes the point a little too literally, but does manage to push Stormbreaker down to the ground, slightly aided by the fact he seems drunk. 
 
-T’hau shares a moment with Remy about being normal as the others head downstairs for drinks, T’hau and Remy eventually joining as well to keep an eye on the others.  
+[[T'hau|T’hau]] shares a moment with Remy about being normal as the others head downstairs for drinks, T’hau and Remy eventually joining as well to keep an eye on the others.  
 
 Next day, Rayna speaks to the flying monkey, who shares he’s getting older and trying to carefully pick his friends. The monkey, Old Yelper, says some more scratches and food would be appreciated, which Mal and Rayna agree to give him.
 

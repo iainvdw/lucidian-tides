@@ -1,19 +1,19 @@
-The fight on the sea continues. Mal heads to the hold of the Cerulean Gauntlet to fight a necromancer, Stormbreaker finds a safe, breaking it open and finding the map inside. He takes the map, as well as two pouches, a brick of some sort of metal. The others stay aboard the Serpent’s Tide, fighting off the remaining mages. They defeat the mages, the necromancer, a flesh golem (thrown overboard by Stormbreaker) and whatever others are in their way. 
+The fight on the sea continues. [[Mallory Calder|Mal]] heads to the hold of the Cerulean Gauntlet to fight a necromancer, [[Stormbreaker]] finds a safe, breaking it open and finding the map inside. He takes the map, as well as two pouches, a brick of some sort of metal. The others stay aboard the Serpent’s Tide, fighting off the remaining mages. They defeat the mages, the necromancer, a flesh golem (thrown overboard by Stormbreaker) and whatever others are in their way. 
 
 They help whatever civilian or sailor survivors aboard the Cerulean Gauntlet, as there’s not much left of the Storm Hawk. 
 
-Doloris and Mal head back down to the hold to investigate some of the dead bodies, trying to figure out why they would’ve brought those along on this mission. They examine the coffins that Mal noted before were marked with a red X. The bodies in these coffins are dressed as Zhelezo prison guards. Doloris notes the bodies look fairly fresh, and all these bodies share a strange bubbly protrusion almost like something bubbled out of their throat, something poisonous or acidic. 
+[[Doloris]] and Mal head back down to the hold to investigate some of the dead bodies, trying to figure out why they would’ve brought those along on this mission. They examine the coffins that Mal noted before were marked with a red X. The bodies in these coffins are dressed as Zhelezo prison guards. Doloris notes the bodies look fairly fresh, and all these bodies share a strange bubbly protrusion almost like something bubbled out of their throat, something poisonous or acidic. 
 
 Doloris suggests they give all these dead a burial at sea, which Mal thinks is a good idea, but they decide to discuss with the rest as well.
 
 On the way up, Mal investigates a crate that the two zombies that went upstairs died by, noting glass nails keeping it shut. She asks Stormbreaker to come down and help her break this open. He does, breaking some of the vials inside that have poisonous gas come out of it. 
 
-One of the survivors introduces himself as Captain Alfonz Zumdi, who thanks the crew for letting him life and saving his life. The crew gives all the bodies aboard the Cerulean Gaunt burials at sea before waving of the captain and the other survivors.
+One of the survivors introduces himself as Captain Alfonz Zumdi, who thanks the crew for letting him life and saving his life. The crew gives all the bodies aboard the Cerulean Gaunt burials at sea before waving off the captain and the other survivors.
 
 The crew discuss their findings with each other. Mal and Doloris take a look at the map, deciphering it like they did the previous one. As they’re doing this, Mal notices a burning sensation in her throat, Doloris quickly figuring out that the poisonous gas she inhaled does whatever happened to those guards. She casts lesser restoration, which helps.
 
 They figure out the map, knowing the date and quickly pinpointing a location. Mal recognises Everplume, an underwater volcano. Omgar’s Hole is a bay near Torrid Reef. It was named after a dragon. The map points to a smaller of two islands, the Snout of Omgar. 
-They head back up on deck to share this information with the rest. The captain thinks it should be about five days to get to the location on the map. 
+They head back up on deck to share this information with the rest. [[Captain Cassian Sariel de Rochefort|The captain]] thinks it should be about five days to get to the location on the map. 
 
 They set off towards the Snout of Omgar, the crew working hard to fix up the damage that the ship took. 
 
@@ -29,7 +29,7 @@ Ukaviel warns her about the creatures she saw, the servants of Zehir. Doloris as
 
 The vision of Ukaviel starts to fade in the water and Doloris soon finds herself waking up in her hammock, soaking wet.
 
-Doloris heads up on deck, where T’hau spots her. They ask her what’s wrong, to which Doloris admits she keeps having weird dreams, though this one may prove useful. They discuss these servants of Zehir and how they should figure out how they fight and operate. 
+Doloris heads up on deck, where [[T'hau|T’hau]] spots her. They ask her what’s wrong, to which Doloris admits she keeps having weird dreams, though this one may prove useful. They discuss these servants of Zehir and how they should figure out how they fight and operate. 
 T’hau talks about their own dreams, sharing some of what they saw in them with Doloris. They tell her their name is apparently Desmond. They also mention T’hau, how it was the name they took because they remembered shouting it in their dreams, but it is apparently the name of a woman they loved. They admit to Doloris they would like to seek out this woman. 
 
 Meanwhile, [[Isol]] and Sarya head towards the Cobalt Soul to report their findings. They note smoke rising over the roofs, eventually realising it’s the Cobalt Reserve that seems to be on fire. Isol rushes in, finding a large pile of books on fire. Isol uses her Decanter of Endless Water to try and put out the fire as Jean-Baptiste de Cretica addresses her, asking about a letter. The pile of books that’s on fire is referred to as the burn pile by him and he’s adamant about finding this letter.

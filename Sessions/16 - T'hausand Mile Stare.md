@@ -1,10 +1,10 @@
-The captain explains they found empty quarters and droplets of slime. He came back from the Cobalt Reserve with a book, locked himself in his room and started reading. The book is still there, the group goes to investigate. 
+[[Captain Cassian Sariel de Rochefort|The captain]] explains they found empty quarters and droplets of slime. He came back from the Cobalt Reserve with a book, locked himself in his room and started reading. The book is still there, the group goes to investigate. 
 
-The pages that are open are blank. The book is written in Naush, so Mal casts Comprehend Languages to translate. Book title is Voices of Salar, written by Karaline von Ethro. It talks about the city of Salar, aboleths, how they were here before the Gods and how it’s located close to Emon. It talks about a sovereign named Durrom a lot and how this society fell apart during the Calamity. As the book goes on, there’s mention of creature called Iluun. It mentions Iluun being an aboleth.
+The pages that are open are blank. The book is written in Naush, so [[Mallory Calder|Mal]] casts Comprehend Languages to translate. Book title is Voices of Salar, written by Karaline von Ethro. It talks about the city of Salar, aboleths, how they were here before the Gods and how it’s located close to Emon. It talks about a sovereign named Durrom a lot and how this society fell apart during the Calamity. As the book goes on, there’s mention of creature called Iluun. It mentions Iluun being an aboleth.
 
-The creature is credited as a source, which refers to the blank pages in the book. Mal notes a magical sheen of sorts on the blank pages, pointing this and all of everything else out to everyone. Rayna dispels the magic on the pages, seemingly opening up a portal of sorts in the book that starts spewing out mucus and slime. 
+The creature is credited as a source, which refers to the blank pages in the book. Mal notes a magical sheen of sorts on the blank pages, pointing this and all of everything else out to everyone. [[Rayna Khatri|Rayna]] dispels the magic on the pages, seemingly opening up a portal of sorts in the book that starts spewing out mucus and slime. 
 
-Taking a look at everything, Doloris deduces that whatever was in this pocket dimension attached to the book lived in sea water, and T’hau may have accidentally summoned it by summoning his echo. He then seems to have left with whatever this thing was.
+Taking a look at everything, [[Doloris]] deduces that whatever was in this pocket dimension attached to the book lived in sea water, and [[T'hau|T’hau]] may have accidentally summoned it by summoning his echo. He then seems to have left with whatever this thing was.
 
 The crew discusses how to find T’hau after the tracks of slime turn out hard to track. As they’re discussing this, someone boards the ship from the water: a female sea elf who claims she’s just here visiting an old friend. She wears a talisman around her neck showing the symbol of Ioun. 
 
@@ -16,7 +16,7 @@ The crew and Alma decide to head to the Tumbledowns, specifically to Tumbledown 
 
 Passing through the Tumbledowns, it’s clear this is the poorer part of town. The crew take note of graffiti of sorts on the buildings, all seemingly mocking someone called the Sugar Man.
 
-They reach Tumbledown Bank and the crew tries different tactics to try and find Bendira and, in Doloris’ case, Iluun. Mal finds a woman who seems to know of Bendira, the parrot circling above the woman’s head confirming as much. The woman says that Bendira has moved to the Pellet, an island just off shore. Stormbreaker knows this used to be a smuggling location that the Myriad used. 
+They reach Tumbledown Bank and the crew tries different tactics to try and find Bendira and, in Doloris’ case, Iluun. Mal finds a woman who seems to know of Bendira, the parrot circling above the woman’s head confirming as much. The woman says that Bendira has moved to the Pellet, an island just off shore. [[Stormbreaker]] knows this used to be a smuggling location that the Myriad used. 
 
 Alma, having asked around as well, shares that some people seem to have seen T’hau swimming towards the Pellet as well. She received some rude comments about T’hau and how she shouldn’t be spending time with ‘creatures like that’. 
 
