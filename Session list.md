@@ -10,7 +10,7 @@
 - [[9 - Councils and Contraband]]
 - [[10 - Landmarks]]
 - [[11 - Tanning Issues]]
-- [[12 - Vidorants Vault]]
+- [[12 - Vidorant's Vault]]
 - [[13 - Blazing Heist]]
 - [[14 - Ultimatum]]
 - [[15 - Port of Call]]
