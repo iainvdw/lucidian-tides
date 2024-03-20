@@ -6,5 +6,6 @@ Turn back to the red glow, see floating at cliff level the three eyed stranger t
 
 Creature wants me to come back to them as the unique successful creation of Ogrorlo. In return, T'hau would be richly rewarded, that they would be returned to their former self, but also restore the other souls that make up T'hau's current existence. Creature says that if they want that, they should follow, and starts lowering themself back towards the sea.  T'hau asks if this dream is real and truly their memory, creature confirms. 
 
-T'hau hesitates for a moment, but then turns back to Etienne, blows her a kiss. Then, they let themself fall backwards off of the cliff while saying that they're sorry they have to do this. As they fall backwards, they see a reflection of a face in the water of a young dark-skinned man with brown eyes.
+T'hau hesitates for a moment, but then turns back to Etienne, takes on final look and then blows her a kiss. Then, they let themself fall backwards off of the cliff while saying that they're sorry they have to do this. As they fall backwards, they see a reflection of a face in the water of a young dark-skinned man with brown eyes.
 
+T'hau also reads the Tome of Understanding they found at the aboleth cult, learning about the aboleth and their ability to communicate as a hive mind. They start to understand more about their echo, dreams and memories, to the ability that they honed their senses to distinguish dreams and memories of their true self and others.

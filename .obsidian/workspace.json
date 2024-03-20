@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "etienne",
+                "query": "ava",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "548f59af93183cb7",
+  "active": "56870d3d83508521",
   "lastOpenFiles": [
     "2. Locations/Lucidian Ocean/Brokenbank.md",
     "1. Characters/Brokenbank/Etienne de Thauville.md",
