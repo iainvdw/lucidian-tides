@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5d4ba0face30a694",
+        "id": "eb04316a52cd7c45",
         "type": "tabs",
         "children": [
           {
-            "id": "24316404875892a4",
+            "id": "548f59af93183cb7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/28 - Session 28.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alvaro",
+                "query": "rlo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sessions/28 - Session 28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sessions/28 - Session 28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sessions/28 - Session 28.md"
+              }
             }
           }
         ]
@@ -145,8 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24316404875892a4",
+  "active": "56870d3d83508521",
   "lastOpenFiles": [
+    "Sessions/27 - Come Slither.md",
+    "Sessions/28 - Session 28.md",
     "0. Assets/Misc/First Gunner.jpg",
     "Misc/Ship Roles/First Gunner.md",
     "1. Characters/Clovis Concord/Jean-Baptiste de Cretica.md",
@@ -158,7 +170,6 @@
     "1. Characters/The Party/Rayna Khatri.md",
     "1. Characters/The Party/T'hau.md",
     "1. Characters/The Party/Stormbreaker.md",
-    "Sessions/27 - Come Slither.md",
     "Sessions/26 - The Bloodrivers Tithes.md",
     "Sessions/25 - The Briarblaze Heart.md",
     "Sessions/24 - Moonlight Croaknata.md",
