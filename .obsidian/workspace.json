@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rlo",
+                "query": "etienne",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,10 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56870d3d83508521",
+  "active": "548f59af93183cb7",
   "lastOpenFiles": [
-    "Sessions/27 - Come Slither.md",
+    "2. Locations/Lucidian Ocean/Brokenbank.md",
+    "1. Characters/Brokenbank/Etienne de Thauville.md",
+    "1. Characters/The Party/T'hau.md",
+    "1. Characters/Brokenbank",
+    "Sessions/17 - Who's mind is it anyway?.md",
     "Sessions/28 - Session 28.md",
+    "Sessions/27 - Come Slither.md",
     "0. Assets/Misc/First Gunner.jpg",
     "Misc/Ship Roles/First Gunner.md",
     "1. Characters/Clovis Concord/Jean-Baptiste de Cretica.md",
@@ -168,7 +172,6 @@
     "1. Characters/The Party/Doloris.md",
     "1. Characters/The Party/Mallory Calder.md",
     "1. Characters/The Party/Rayna Khatri.md",
-    "1. Characters/The Party/T'hau.md",
     "1. Characters/The Party/Stormbreaker.md",
     "Sessions/26 - The Bloodrivers Tithes.md",
     "Sessions/25 - The Briarblaze Heart.md",
@@ -182,9 +185,6 @@
     "Sessions/12 - Vidorant's Vault.md",
     "Sessions/20 - Splintered Hulls.md",
     "Misc/Ship Roles/The Serpent's Tide - Ship.md",
-    "2. Locations/Lushgut Forest/Sanctuary of Perpetual Tides.md",
-    "1. Characters/Lushgut Forest/Mudgraw.md",
-    "1. Characters/Lushgut Forest/Nesali.md",
     "2. Locations/Lushgut Forest",
     "1. Characters/Lushgut Forest",
     "1. Characters/Miscellaneous",
@@ -201,7 +201,6 @@
     "0. Assets/Factions",
     "1. Characters/Golden Chain",
     "1. Characters/Port Zoon",
-    "1. Characters/Gravid Archipelago",
-    "1. Characters/Clovis Concord"
+    "1. Characters/Gravid Archipelago"
   ]
 }

@@ -1,0 +1,1 @@
+Island in the Lucidian Ocean. [[Etienne de Thauville]] is the portcaller there.

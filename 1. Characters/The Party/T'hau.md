@@ -2,6 +2,8 @@
 aliases:
   - crab
   - T’hau
+  - Desmond
+  - Des
 ---
 
 | Head          | Full body              |
