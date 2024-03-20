@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f907691badc49510",
+        "id": "5d4ba0face30a694",
         "type": "tabs",
         "children": [
           {
-            "id": "3ba8c719352b4c4a",
+            "id": "24316404875892a4",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "0. Assets/Misc/First Gunner.jpg"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -91,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Assets/Misc/First Gunner.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Assets/Misc/First Gunner.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0. Assets/Misc/First Gunner.jpg"
-              }
+              "state": {}
             }
           }
         ]
@@ -151,8 +145,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ba8c719352b4c4a",
+  "active": "24316404875892a4",
   "lastOpenFiles": [
+    "0. Assets/Misc/First Gunner.jpg",
     "Misc/Ship Roles/First Gunner.md",
     "1. Characters/Clovis Concord/Jean-Baptiste de Cretica.md",
     "1. Characters/Clovis Concord/Grand Admiral Alvaro.md",
@@ -179,11 +174,9 @@
     "2. Locations/Lushgut Forest/Sanctuary of Perpetual Tides.md",
     "1. Characters/Lushgut Forest/Mudgraw.md",
     "1. Characters/Lushgut Forest/Nesali.md",
-    "2. Locations/Lushgut Forest/Taruun Goliath village.md",
     "2. Locations/Lushgut Forest",
     "1. Characters/Lushgut Forest",
     "1. Characters/Miscellaneous",
-    "0. Assets/Misc/First Gunner.jpg",
     "0. Assets/Characters/alma.png",
     "1. Characters/Port Damali",
     "0. Assets/Locations/menagerie-coast.png",
