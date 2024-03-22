@@ -9,3 +9,4 @@ Creature wants me to come back to them as the unique successful creation of Ogro
 T'hau hesitates for a moment, but then turns back to Etienne, takes on final look and then blows her a kiss. Then, they let themself fall backwards off of the cliff while saying that they're sorry they have to do this. As they fall backwards, they see a reflection of a face in the water of a young dark-skinned man with brown eyes.
 
 T'hau also reads the Tome of Understanding they found at the aboleth cult, learning about the aboleth and their ability to communicate as a hive mind. They start to understand more about their echo, dreams and memories, to the ability that they honed their senses to distinguish dreams and memories of their true self and others.
+
