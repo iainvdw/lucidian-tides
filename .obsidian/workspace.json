@@ -11,8 +11,13 @@
             "id": "82883ff8d125e108",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/28 - Session 28.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sessions/28 - Session 28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sessions/28 - Session 28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sessions/28 - Session 28.md"
+              }
             }
           }
         ]
@@ -147,8 +156,10 @@
   },
   "active": "82883ff8d125e108",
   "lastOpenFiles": [
-    "1. Characters/Darktow/Maximillian Firetalon.md",
+    "1. Characters/The Party/T'hau.md",
     "Sessions/28 - Session 28.md",
+    "1. Characters/Brokenbank/Etienne de Thauville.md",
+    "1. Characters/Darktow/Maximillian Firetalon.md",
     "0. Assets/Characters/maximillian-firetalon.jpg",
     "Sessions/0 - The Serpent's Tide gets her crew.md",
     "1. Characters/Darktow/Lg'hun 'Pock'.md",
@@ -156,8 +167,6 @@
     "1. Characters/Darktow/Sur'ik 'Shriek'.md",
     "1. Characters/Darktow/Ser'ruk 'Shelly'.md",
     "2. Locations/Lucidian Ocean/Brokenbank.md",
-    "1. Characters/Brokenbank/Etienne de Thauville.md",
-    "1. Characters/The Party/T'hau.md",
     "1. Characters/Brokenbank",
     "Sessions/17 - Who's mind is it anyway?.md",
     "Sessions/27 - Come Slither.md",
