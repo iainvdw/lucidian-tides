@@ -19,7 +19,6 @@
 - [[18 - Pigeons]]
 - [[19 - Mapquest]]
 - [[20 - Splintered Hulls]]
-- [[21 - See session 20]]
 - [[21 - The Snout of Omgar]]
 - [[22 - Nature versus Nurture]]
 - [[23 - Moonlit Mysteries and Mayhem]]
@@ -27,3 +26,4 @@
 - [[25 - The Briarblaze Heart]]
 - [[26 - The Bloodrivers Tithes]]
 - [[27 - Come Slither]]
+- [[28 - Session 28]]

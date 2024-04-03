@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/28 - Session 28.md",
+                "file": "Sessions/29 - Session 29.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ogror",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/28 - Session 28.md",
+                "file": "Sessions/29 - Session 29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/28 - Session 28.md",
+                "file": "Sessions/29 - Session 29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/28 - Session 28.md"
+                "file": "Sessions/29 - Session 29.md"
               }
             }
           }
@@ -156,18 +156,20 @@
   },
   "active": "80da4f632dc29940",
   "lastOpenFiles": [
-    "Sessions/7 - Seabed Swindle.md",
+    "Session list.md",
+    "Sessions/29 - Session 29.md",
     "Sessions/28 - Session 28.md",
+    "1. Characters/Darktow/Ser'ruk 'Shelly'.md",
+    "1. Characters/Darktow/Lg'hun 'Pock'.md",
+    "1. Characters/Darktow/Kr'uth 'Snip'.md",
+    "Sessions/7 - Seabed Swindle.md",
     "1. Characters/Miscellaneous/Ogrorlo.md",
     "1. Characters/The Party/T'hau.md",
     "1. Characters/Brokenbank/Etienne de Thauville.md",
     "1. Characters/Darktow/Maximillian Firetalon.md",
     "0. Assets/Characters/maximillian-firetalon.jpg",
     "Sessions/0 - The Serpent's Tide gets her crew.md",
-    "1. Characters/Darktow/Lg'hun 'Pock'.md",
-    "1. Characters/Darktow/Kr'uth 'Snip'.md",
     "1. Characters/Darktow/Sur'ik 'Shriek'.md",
-    "1. Characters/Darktow/Ser'ruk 'Shelly'.md",
     "2. Locations/Lucidian Ocean/Brokenbank.md",
     "1. Characters/Brokenbank",
     "Sessions/17 - Who's mind is it anyway?.md",
@@ -184,8 +186,6 @@
     "1. Characters/The Party/Stormbreaker.md",
     "Sessions/26 - The Bloodrivers Tithes.md",
     "Sessions/25 - The Briarblaze Heart.md",
-    "Sessions/24 - Moonlight Croaknata.md",
-    "Sessions/23 - Moonlit Mysteries and Mayhem.md",
     "2. Locations/Lushgut Forest",
     "1. Characters/Lushgut Forest",
     "1. Characters/Miscellaneous",
