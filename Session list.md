@@ -26,4 +26,4 @@
 - [[25 - The Briarblaze Heart]]
 - [[26 - The Bloodrivers Tithes]]
 - [[27 - Come Slither]]
-- [[28 - Session 28]]
+- [[28 - Tavern Trouble]]
