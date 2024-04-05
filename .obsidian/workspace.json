@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/28 - Tavern Trouble.md",
+                "file": "Sessions/29 - Session 29.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/28 - Tavern Trouble.md",
+                "file": "Sessions/29 - Session 29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/28 - Tavern Trouble.md",
+                "file": "Sessions/29 - Session 29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/28 - Tavern Trouble.md"
+                "file": "Sessions/29 - Session 29.md"
               }
             }
           }
@@ -156,8 +156,10 @@
   },
   "active": "80da4f632dc29940",
   "lastOpenFiles": [
-    "Sessions/29 - Session 29.md",
     "Sessions/28 - Tavern Trouble.md",
+    "3. Factions/Blood Sails.md",
+    "1. Characters/Nicodranas/Eda Donegal.md",
+    "Sessions/29 - Session 29.md",
     "Sessions/27 - Come Slither.md",
     "Session list.md",
     "1. Characters/Darktow/Ser'ruk 'Shelly'.md",
@@ -184,8 +186,6 @@
     "1. Characters/The Party/Mallory Calder.md",
     "1. Characters/The Party/Rayna Khatri.md",
     "1. Characters/The Party/Stormbreaker.md",
-    "Sessions/26 - The Bloodrivers Tithes.md",
-    "Sessions/25 - The Briarblaze Heart.md",
     "2. Locations/Lushgut Forest",
     "1. Characters/Lushgut Forest",
     "1. Characters/Miscellaneous",

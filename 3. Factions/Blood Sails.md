@@ -1,0 +1,1 @@
+Pirate mercenaries hailing from [[Port Damali]] currently in the employ of [[Clovis Concord|The Concord]]. They have established a perimeter around [[Nicodranas]] to protect its port.

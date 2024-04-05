@@ -10,26 +10,26 @@ Creature wants me to come back to them as the unique successful creation of Ogro
 
 T'hau hesitates for a moment, but then turns back to Etienne, takes on final look and then blows her a kiss. Then, they let themself fall backwards off of the cliff while saying that they're sorry they have to do this. As they fall backwards, they see a reflection of a face in the water of a young dark-skinned man with brown eyes.
 
-Doloris takes some time to try and figure out the entity within the dagger, Sizlifeth. She was one of Zehir’s earliest followers. She was slain on the battlefield by the Stormlord. Her master kept her alive in this weapon by offering up one of his fangs. There are many souls inside the dagger, which the wielder of the weapon can use, but Sizlifeth thinks Doloris isn’t ready for that yet.
+[[Doloris]] takes some time to try and figure out the entity within the dagger, Sizlifeth. She was one of Zehir’s earliest followers. She was slain on the battlefield by the Stormlord. Her master kept her alive in this weapon by offering up one of his fangs. There are many souls inside the dagger, which the wielder of the weapon can use, but Sizlifeth thinks Doloris isn’t ready for that yet.
 
 Sizlifeth asked Doloris to convert to Zehir because it is who she serves. She could not have served someone who worships the Wildmother. Doloris says she served the Wildmother for decades and she feels close to her. Letting her go may be difficult. Sizlifeth asks about this, but Doloris says it’s too early to have that conversation. 
 
-Louise seeks out Doloris to speak about the Wildmother. She admits she doesn’t understand why Doloris made the choice she did. Doloris explains that it didn’t feel like a choice in the moment - Ukaviel saved her a long time ago, she felt like it was always her purpose to save her in turn. 
+[[Mallory Calder|Louise]] seeks out Doloris to speak about the Wildmother. She admits she doesn’t understand why Doloris made the choice she did. Doloris explains that it didn’t feel like a choice in the moment - Ukaviel saved her a long time ago, she felt like it was always her purpose to save her in turn. 
 
 As it was once upon a time Doloris who brought Louise to Wildmother, so Louise promises to do her best to return that favor. Doloris says she feels like she can’t feel the ocean breeze like before, so Louise uses Druidcraft to try and enhance the breeze a little. They agree that as long as they have faith, they may be able to figure this out.
 
-Stormbreaker very awkwardly asks Louise and Rayna to join him for drinks later that night. Something about oceans and plants. They both join him later that night for more awkward conversation, drinks, cards and whatever else.
+[[Stormbreaker]] very awkwardly asks Louise[[Mallory Calder|Louise]]and [[Rayna Khatri|Rayna]] to join him for drinks later that night. Something about oceans and plants. They both join him later that night for more awkward conversation, drinks, cards and whatever else.
 
 T'hau also reads the Tome of Understanding they found at the aboleth cult, learning about the aboleth and their ability to communicate as a hive mind. They start to understand more about their echo, dreams and memories, to the ability that they honed their senses to distinguish dreams and memories of their true self and others.
 
-Eventually, they reach the island of Darktow. Lit lanterns illuminate the white harbour of the island. Those familiar with Darktow know the lanterns represent the dead, the families of the deceased the ones lighting them. Rayna tells Stormbreaker about some pirate things he should keep in mind.
+Eventually, they reach the island of [[Darktow]]. Lit lanterns illuminate the white harbour of the island. Those familiar with Darktow know the lanterns represent the dead, the families of the deceased the ones lighting them. Rayna tells Stormbreaker about some pirate things he should keep in mind.
 
 As they dock the ship, they recognise some of the ships already docked, amongst them the Blind Sphinx, the Dragonfly and the reclaimed Siren.
 The crew decides to show Stormbreaker the sights as it doesn’t seem time for the Conclave of Sails yet. 
 
-They split up once reaching Sundry Square, Louise heading off to find everyone some local snacks. Doloris checks in with Necky at the Siren’s Call and is told that Councilwoman Donagal and Ava are staying in Darktow, having arrived aboard the Dragonfly. Nicodranas is currently under the protection of the Blood Sails. 
+They split up once reaching Sundry Square, Louise heading off to find everyone some local snacks. [[Doloris]] checks in with Necky at the Siren’s Call and is told that [[Eda Donegal|Donegal, Eda, Councilwoman Donegal]] and Ava are staying in Darktow, having arrived aboard the Dragonfly. Nicodranas is currently under the protection of the [[Blood Sails]]. 
 
-Necky mentions rumors of the Plank Queen wanting to buy off a local monster. Doloris then buys a health potion of him and thanks him for that as well as the gossip.  
+Necky mentions rumors of the [[Plank Queen Yucalia|Plank Queen]] wanting to buy off a local monster. Doloris then buys a health potion of him and thanks him for that as well as the gossip.  
 T’hau seeks out Daigon’s Forge to find some upgraded guns. Storm and Rayna join him. T’hau arranges for an upgrade for his guns whereas Storm finds some fancy pikes. Daigon also tells them to seek out Ugon, an orcish fellow who may have weapons of the magical variety to sell. He’ll be at the square tomorrow. 
 
 Everyone meets back up in the square. Lou hands out fish snacks. Doloris shares with T’hau that the tents where the crab people reside got raided. T’hau wants to check it out and the others are quick to offer to join them. 
