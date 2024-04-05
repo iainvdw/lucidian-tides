@@ -1,14 +1,14 @@
-T’hau addresses the captain, offering a speech about how they’re pretty sure they and the crew of the Serpent’s Tide are the more real pirates, considering they’ve been fighting the Revelry’s enemies rather than boasting about attacking innocent merchant ships. Captain Firetallon correctly interprets this as a threat. Combat ensues.
+T’hau addresses the captain, offering a speech about how they’re pretty sure they and the crew of the Serpent’s Tide are the more real pirates, considering they’ve been fighting the Revelry’s enemies rather than boasting about attacking innocent merchant ships. Captain Firetalon correctly interprets this as a threat. Combat ensues.
 
-The crew targets the captain, eventually managing to take him down. Lou takes his money and pays the barkeep for damages as the crew allows one of Firetallon’s crew to heal him. T’hau makes a point of standing up for his kind, emphasizing they don’t take these insults lightly.  
+The crew targets the captain, eventually managing to take him down. Lou takes his money and pays the barkeep for damages as the crew allows one of Firetalon’s crew to heal him. T’hau makes a point of standing up for his kind, emphasizing they don’t take these insults lightly.  
 
-Firetallon leaves, seeming embarrassed, with some of his crew in tow.  
+Firetalon leaves, seeming embarrassed, with some of his crew in tow.  
 
-They talk to Wave on Shore, one of Firetallon’s crew members, who apologises for the fight and helps clean up. They ask him about Firetallon’s opinion on Nicodranas, to which he explains most of them are from Marquet and they don’t really have much of a stake in Menagerie Coast business. He further explains that one of the captain’s men, Golden Claw, worships a desert goddess named Shebira, who seems to encourage strength and honour and such. Said goddess seems to be muddling the captain’s mind. He also points out they may have jeopardised the captain’s position, as he’s all about strength, and they took him down a notch. Some of the staff may now challenge him. 
+They talk to Wave on Shore, one of Firetalon’s crew members, who apologises for the fight and helps clean up. They ask him about Firetalon’s opinion on Nicodranas, to which he explains most of them are from Marquet and they don’t really have much of a stake in Menagerie Coast business. He further explains that one of the captain’s men, Golden Claw, worships a desert goddess named Shebira, who seems to encourage strength and honour and such. Said goddess seems to be muddling the captain’s mind. He also points out they may have jeopardised the captain’s position, as he’s all about strength, and they took him down a notch. Some of the staff may now challenge him. 
 
 Wave on Shore also mentions the total crew is about 47 now, and they have a tiefling locked up aboard the ship. They’re hoping to ransom him back to the de Montfort shipping company. Lou asks for the tiefling’s name: Rollins. She recognises this as Heddic, the lead navigator of the company. Very involved with the family business, but she’s not sure if he’s aware of the devilish sides of things.  
 
-Lou counts the money from Firetallon, estimating it’s about 4000 gold worth of gems and other money. She and T’hau exit the Bloated Cup and head back over towards the K’thaumi at the Muddy Hut to give them the money, the others stay behind in the bar. 
+Lou counts the money from Firetalon, estimating it’s about 4000 gold worth of gems and other money. She and T’hau exit the Bloated Cup and head back over towards the K’thaumi at the Muddy Hut to give them the money, the others stay behind in the bar. 
 
 Doloris, Rayna and Storm spot a ship coming in, sailless, seemingly being pulled forward by luminescent jellyfish. Ice covers the hull, despite the tropical temperatures of this island.  
 
@@ -30,7 +30,7 @@ Lou suggests they get the arcane canon and the box, in exchange for the trident 
 
 As Lou takes a closer look at the box, she notes some dancing flames in brass. The one Lou’s father has had a folding obelisk in the center, this one Lou now has, has a spiral that turns. 
 
-Doloris escorts Ugon and the canon and box back to the ship as T’hau and Lou head to the Muddy Hut to train the K’thaumi, as Pock requested the night before.  
+Doloris escorts Ugon and the canon and music box back to the ship as T’hau and Lou head to the Muddy Hut to train the K’thaumi, as Pock requested the night before.  
 
 Meanwhile, Rayne suggests she and Storm go surfing, clarifying she herself doesn’t want to surf, but it seems like he wants to. Doloris returns to the ship to find Rayna curled up on a surfboard, clearly uncomfortable. 
 

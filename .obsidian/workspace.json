@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/29 - Session 29.md",
+                "file": "Sessions/28 - Tavern Trouble.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gold",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/29 - Session 29.md",
+                "file": "Sessions/28 - Tavern Trouble.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/29 - Session 29.md",
+                "file": "Sessions/28 - Tavern Trouble.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/29 - Session 29.md"
+                "file": "Sessions/28 - Tavern Trouble.md"
               }
             }
           }
@@ -155,10 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56870d3d83508521",
+  "active": "80da4f632dc29940",
   "lastOpenFiles": [
-    "Sessions/28 - Tavern Trouble.md",
     "Sessions/29 - Session 29.md",
+    "Sessions/28 - Tavern Trouble.md",
     "Sessions/27 - Come Slither.md",
     "Session list.md",
     "1. Characters/Darktow/Ser'ruk 'Shelly'.md",
