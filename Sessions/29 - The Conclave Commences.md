@@ -1,6 +1,6 @@
-T’hau addresses the captain, offering a speech about how they’re pretty sure they and the crew of the Serpent’s Tide are the more real pirates, considering they’ve been fighting the Revelry’s enemies rather than boasting about attacking innocent merchant ships. Captain Firetalon correctly interprets this as a threat. Combat ensues.
+[[T'hau]] addresses the captain, offering a speech about how they’re pretty sure they and the crew of [[The Serpent's Tide]] are the more real pirates, considering they’ve been fighting the [[The Revelry|Revelry]]’s enemies rather than boasting about attacking innocent merchant ships. Captain Firetalon correctly interprets this as a threat. Combat ensues.
 
-The crew targets the captain, eventually managing to take him down. Lou takes his money and pays the barkeep for damages as the crew allows one of Firetalon’s crew to heal him. T’hau makes a point of standing up for his kind, emphasizing they don’t take these insults lightly.  
+The crew targets the captain, eventually managing to take him down. Lou takes his money and pays the barkeep for damages as the crew allows one of Firetalon’s crew to heal him. T’hau makes a point of standing up for his kind, emphasising they don’t take these insults lightly.  
 
 Firetalon leaves, seeming embarrassed, with some of his crew in tow.  
 

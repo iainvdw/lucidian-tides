@@ -1,6 +1,8 @@
 ---
 aliases:
-  - Donegal, Eda, Councilwoman Donegal
+  - Dongeal
+  - Eda
+  - Councilwoman Donegal
 ---
 
 

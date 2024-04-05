@@ -27,9 +27,9 @@ Eventually, they reach the island of [[Darktow]]. Lit lanterns illuminate the wh
 As they dock the ship, they recognise some of the ships already docked, amongst them the Blind Sphinx, the Dragonfly and the reclaimed Siren.
 The crew decides to show Stormbreaker the sights as it doesn’t seem time for the Conclave of Sails yet. 
 
-They split up once reaching Sundry Square, Louise heading off to find everyone some local snacks. [[Doloris]] checks in with Necky at the Siren’s Call and is told that [[Eda Donegal|Donegal, Eda, Councilwoman Donegal]] and Ava are staying in Darktow, having arrived aboard the Dragonfly. Nicodranas is currently under the protection of the [[Blood Sails]]. 
+They split up once reaching Sundry Square, Louise heading off to find everyone some local snacks. [[Doloris]] checks in with Necky at the Siren’s Call and is told that [[Eda Donegal|Councilwoman Donegal]] and Ava are staying in Darktow, having arrived aboard the Dragonfly. [[Nicodranas]] is currently under the protection of the [[Blood Sails]]. 
 
-Necky mentions rumors of the [[Plank Queen Yucalia|Plank Queen]] wanting to buy off a local monster. Doloris then buys a health potion of him and thanks him for that as well as the gossip.  
+Necky mentions rumours of the [[Plank Queen Yucalia|Plank Queen]] wanting to buy off a local monster. Doloris then buys a health potion of him and thanks him for that as well as the gossip.  
 T’hau seeks out Daigon’s Forge to find some upgraded guns. Storm and Rayna join him. T’hau arranges for an upgrade for his guns whereas Storm finds some fancy pikes. Daigon also tells them to seek out Ugon, an orcish fellow who may have weapons of the magical variety to sell. He’ll be at the square tomorrow. 
 
 Everyone meets back up in the square. Lou hands out fish snacks. Doloris shares with T’hau that the tents where the crab people reside got raided. T’hau wants to check it out and the others are quick to offer to join them. 
