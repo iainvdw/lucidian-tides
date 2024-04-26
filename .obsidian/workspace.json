@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/30 - The Conclave of Sails.md",
+                "file": "Sessions/29 - The Conclave Commences.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/30 - The Conclave of Sails.md",
+                "file": "Sessions/29 - The Conclave Commences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/30 - The Conclave of Sails.md",
+                "file": "Sessions/29 - The Conclave Commences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/30 - The Conclave of Sails.md"
+                "file": "Sessions/29 - The Conclave Commences.md"
               }
             }
           }
@@ -170,6 +170,9 @@
   },
   "active": "930c9fdaab14b668",
   "lastOpenFiles": [
+    "1. Characters/Clovis Concord/Grand Admiral Alvaro.md",
+    "Sessions/Alvaro.md",
+    "Sessions/30 - The Conclave of Sails.md",
     "Sessions/29 - The Conclave Commences.md",
     "1. Characters/The Party/T'hau.md",
     "Sessions/T’hau.md",
@@ -178,7 +181,6 @@
     "1. Characters/Darktow/Captain Maximillian Firetalon.md",
     "1. Characters/Darktow/Kr'uth 'Snip'.md",
     "0. Assets/Characters/firetalon.jpg",
-    "Sessions/30 - The Conclave of Sails.md",
     "Sessions/28 - Tavern Trouble.md",
     "1. Characters/Nicodranas/Eda Donegal.md",
     "3. Factions/Blood Sails.md",
@@ -198,9 +200,7 @@
     "0. Assets/Misc/First Gunner.jpg",
     "Misc/Ship Roles/First Gunner.md",
     "1. Characters/Clovis Concord/Jean-Baptiste de Cretica.md",
-    "1. Characters/Clovis Concord/Grand Admiral Alvaro.md",
     "0. Assets/Characters/jean-baptiste-de-cretica.jpeg",
-    "Sessions/18 - Pigeons.md",
     "2. Locations/Lushgut Forest",
     "1. Characters/Lushgut Forest",
     "1. Characters/Miscellaneous",

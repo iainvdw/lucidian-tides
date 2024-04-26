@@ -14,7 +14,7 @@
 
 As soon as he is freed, he wants to find the commander and ask about someone called Sheila. Walking over to the cells where the Zhelezo are locked up, the freed prisoner demands that they tell him what they did to Sheila. The commander wakes up and sees the large man angrily talking to him. The commander points to a door leading to the armoury, and the man walks off to investigate. Rummaging through a few crates, he finally emerges with a large maul in his hands, revealing that Sheila isn't a someone, it's his maul. He introduces himself as [[Stormbreaker]], a defector from the [[Clovis Concord]] that got caught and taken prisoner.
 
-[[Doloris]] speaks to [[Obaya]], Obaya was invited to head to [[Port Damali]]. Obaya doesn't really know what the invitation is about, but she is a bit curious to find out why. Invited by the Grand Admiral. She tells Doloris that if someone gets an invitation from the [[Clovis Concord]], you don't usually ignore it.
+[[Doloris]] speaks to [[Obaya]], Obaya was invited to head to [[Port Damali]]. Obaya doesn't really know what the invitation is about, but she is a bit curious to find out why. Invited by the [[Grand Admiral Alvaro|Grand Admiral]]. She tells Doloris that if someone gets an invitation from the [[Clovis Concord]], you don't usually ignore it.
 
 ## A fishy smelling cook
 

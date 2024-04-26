@@ -14,7 +14,7 @@ The Plank Queen concludes the conclave, saying she’ll want to meet with smalle
 
 As they’ve been dismissed for the moment, the crew head to the Keel Hall to get some drinks. Lou brings up [[Heddic Rollins|Heddic]], unsure if talking to her family’s head navigator may get the crew information they need. They’re unsure if it will be of any use to speak to him. 
 
-The discussion turns to how to turn the people of Nicodranas against Alvaro, which leads to them exposing Lou’s dad as well. Rayna suggests the music boxes may be an angle, as they may be able to open a portal to Hell with it. 
+The discussion turns to how to turn the people of [[Nicodranas]] against [[Alvaro]], which leads to them exposing Lou’s dad as well. Rayna suggests the music boxes may be an angle, as they may be able to open a portal to Hell with it. 
 
 Lou takes a look at the music box, recognising the obelisk that appeared in her father’s music box as well. She recognises abjuration and conjuration magic from the magical infernal runes coming from the music box. Seems like it’s keeping something locked inside.
 She notes the number six, likely referring to the sixth layer of Hell, Malbolge. 
