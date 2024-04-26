@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a80938f4d10b5998",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/30 - The Conclave of Sails.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/29 - The Conclave Commences.md",
+                "file": "Sessions/30 - The Conclave of Sails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/29 - The Conclave Commences.md",
+                "file": "Sessions/30 - The Conclave of Sails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/29 - The Conclave Commences.md"
+                "file": "Sessions/30 - The Conclave of Sails.md"
               }
             }
           }
@@ -154,10 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc55a3458b0678b9",
+  "active": "a80938f4d10b5998",
   "lastOpenFiles": [
-    "Sessions/28 - Tavern Trouble.md",
     "Sessions/29 - The Conclave Commences.md",
+    "Sessions/30 - The Conclave of Sails.md",
+    "Sessions/28 - Tavern Trouble.md",
     "1. Characters/The Party/T'hau.md",
     "1. Characters/Nicodranas/Eda Donegal.md",
     "3. Factions/Blood Sails.md",
@@ -185,7 +200,6 @@
     "1. Characters/The Party/Doloris.md",
     "1. Characters/The Party/Mallory Calder.md",
     "1. Characters/The Party/Rayna Khatri.md",
-    "1. Characters/The Party/Stormbreaker.md",
     "2. Locations/Lushgut Forest",
     "1. Characters/Lushgut Forest",
     "1. Characters/Miscellaneous",
