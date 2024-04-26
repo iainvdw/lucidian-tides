@@ -1,4 +1,4 @@
-[[T'hau]] addresses the captain, offering a speech about how they’re pretty sure they and the crew of [[The Serpent's Tide]] are the more real pirates, considering they’ve been fighting the [[The Revelry|Revelry]]’s enemies rather than boasting about attacking innocent merchant ships. Captain Firetalon correctly interprets this as a threat. Combat ensues.
+[[T'hau]] addresses the captain, offering a speech about how they’re pretty sure they and the crew of [[The Serpent's Tide]] are the more real pirates, considering they’ve been fighting the [[The Revelry|Revelry]]’s enemies rather than boasting about attacking innocent merchant ships. [[Captain Maximillian Firetalon|Captain Firetalon]] correctly interprets this as a threat. Combat ensues.
 
 The crew targets the captain, eventually managing to take him down. Lou takes his money and pays the barkeep for damages as the crew allows one of Firetalon’s crew to heal him. T’hau makes a point of standing up for his kind, emphasising they don’t take these insults lightly.  
 
@@ -6,17 +6,17 @@ Firetalon leaves, seeming embarrassed, with some of his crew in tow.  
 
 They talk to Wave on Shore, one of Firetalon’s crew members, who apologises for the fight and helps clean up. They ask him about Firetalon’s opinion on Nicodranas, to which he explains most of them are from Marquet and they don’t really have much of a stake in Menagerie Coast business. He further explains that one of the captain’s men, Golden Claw, worships a desert goddess named Shebira, who seems to encourage strength and honour and such. Said goddess seems to be muddling the captain’s mind. He also points out they may have jeopardised the captain’s position, as he’s all about strength, and they took him down a notch. Some of the staff may now challenge him. 
 
-Wave on Shore also mentions the total crew is about 47 now, and they have a tiefling locked up aboard the ship. They’re hoping to ransom him back to the de Montfort shipping company. Lou asks for the tiefling’s name: Rollins. She recognises this as Heddic, the lead navigator of the company. Very involved with the family business, but she’s not sure if he’s aware of the devilish sides of things.  
+Wave on Shore also mentions the total crew is about 47 now, and they have a tiefling locked up aboard the ship. They’re hoping to ransom him back to the de Montfort shipping company. Lou asks for the tiefling’s name: Rollins. She recognises this as [[Heddic Rollins|Heddic]], the lead navigator of the company. Very involved with the family business, but she’s not sure if he’s aware of the devilish sides of things.  
 
-Lou counts the money from Firetalon, estimating it’s about 4000 gold worth of gems and other money. She and T’hau exit the Bloated Cup and head back over towards the K’thaumi at the Muddy Hut to give them the money, the others stay behind in the bar. 
+[[Mallory Calder|Lou]] counts the money from [[Captain Maximillian Firetalon|Firetalon]], estimating it’s about 4000 gold worth of gems and other money. She and T’hau exit the Bloated Cup and head back over towards the K’thaumi at [[The Muddy Hut]] to give them the money, the others stay behind in the bar. 
 
-Doloris, Rayna and Storm spot a ship coming in, sailless, seemingly being pulled forward by luminescent jellyfish. Ice covers the hull, despite the tropical temperatures of this island.  
+[[Doloris]], [[Rayna Khatri|Rayna]] and [[Stormbreaker|Storm]] spot a ship coming in, sailless, seemingly being pulled forward by luminescent jellyfish. Ice covers the hull, despite the tropical temperatures of this island.  
 
-T’hau and Lou speak to Pock, handing him the money. He seems reluctant to take all of it, and seems somewhat worried this may have stirred up shit they’ll now have to deal with, but ultimately he’s grateful for what the crew did. T’hau and Lou stay for drinks.  
+[[T'hau]] and Lou speak to Pock, handing him the money. He seems reluctant to take all of it, and seems somewhat worried this may have stirred up shit they’ll now have to deal with, but ultimately he’s grateful for what the crew did. T’hau and Lou stay for drinks.  
 
 Over the course of the night, more and more ships seem to arrive for the conclave. 
 
-Wave on Shore joins Doloris for some drinks during the night, asking her about Storm. He shares some of what he heard about Storm, saying people involved in the raid involving the refugees went missing. Doloris tells him to just ask Storm himself, which he does. 
+Wave on Shore joins [[Doloris]] for some drinks during the night, asking her about [[Stormbreaker|Storm]]. He shares some of what he heard about Storm, saying people involved in the raid involving the refugees went missing. Doloris tells him to just ask Storm himself, which he does. 
 
 Storm also hasn’t heard anything about people from his former crew having gone missing. Wave on Shore refers to it as a ghost story a lot of people who were part of that raid were hunted down and never heard from again. The ghost story says the ships that were targeted somehow survived and are now out for revenge. Rayna asks if they could go after Alvaro instead, pointing out some of the crew were likely rather innocent in the matter.  
 
