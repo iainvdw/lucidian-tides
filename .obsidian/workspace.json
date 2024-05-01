@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "0. Assets/Misc/First Gunner.jpg"
+                "file": "0. Assets/Locations/the-serpents-tide.png"
               }
             }
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Assets/Misc/First Gunner.jpg",
+                "file": "0. Assets/Locations/the-serpents-tide.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Assets/Misc/First Gunner.jpg",
+                "file": "0. Assets/Locations/the-serpents-tide.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Assets/Misc/First Gunner.jpg"
+                "file": "0. Assets/Locations/the-serpents-tide.png"
               }
             }
           }
@@ -153,9 +153,9 @@
   },
   "active": "cd9b1c6956d42b46",
   "lastOpenFiles": [
+    "0. Assets/Misc/First Gunner.jpg",
     "0. Assets/Locations/the-serpents-tide.png",
     "Sessions/31 - Session 31.md",
-    "0. Assets/Misc/First Gunner.jpg",
     "Sessions/30 - The Conclave of Sails.md",
     "1. Characters/Port Damali/Alma Hyllyndre.md",
     "1. Characters/Nicodranas/Heddic Rollins.md",
