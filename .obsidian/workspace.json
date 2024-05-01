@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Characters/Nicodranas/Heddic Rollins.md",
+                "file": "Sessions/31 - Session 31.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Characters/Nicodranas/Heddic Rollins.md",
+                "file": "Sessions/31 - Session 31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Characters/Nicodranas/Heddic Rollins.md",
+                "file": "Sessions/31 - Session 31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Characters/Nicodranas/Heddic Rollins.md"
+                "file": "Sessions/31 - Session 31.md"
               }
             }
           }
@@ -182,8 +182,8 @@
   },
   "active": "fc55a3458b0678b9",
   "lastOpenFiles": [
-    "0. Assets/heddic-rollins.png",
     "1. Characters/Nicodranas/Heddic Rollins.md",
+    "0. Assets/heddic-rollins.png",
     "Sessions/31 - Session 31.md",
     "Sessions/30 - The Conclave of Sails.md",
     "Sessions/29 - The Conclave Commences.md",
