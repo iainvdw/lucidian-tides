@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "dbbc59d4c2d32ad9",
+        "id": "2e084c831ae8c40d",
         "type": "tabs",
         "children": [
           {
-            "id": "cd9b1c6956d42b46",
+            "id": "528c45c9e12d8c67",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "0. Assets/Locations/the-serpents-tide.png"
+                "file": "Sessions/31 - Beef.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -91,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Assets/Locations/the-serpents-tide.png",
+                "file": "Sessions/31 - Beef.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Assets/Locations/the-serpents-tide.png",
+                "file": "Sessions/31 - Beef.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Assets/Locations/the-serpents-tide.png"
+                "file": "Sessions/31 - Beef.md"
               }
             }
           }
@@ -151,11 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd9b1c6956d42b46",
+  "active": "528c45c9e12d8c67",
   "lastOpenFiles": [
-    "0. Assets/Misc/First Gunner.jpg",
     "0. Assets/Locations/the-serpents-tide.png",
-    "Sessions/31 - Session 31.md",
+    "0. Assets/Misc/First Gunner.jpg",
+    "Sessions/31 - Beef.md",
     "Sessions/30 - The Conclave of Sails.md",
     "1. Characters/Port Damali/Alma Hyllyndre.md",
     "1. Characters/Nicodranas/Heddic Rollins.md",
