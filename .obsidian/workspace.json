@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2e084c831ae8c40d",
+        "id": "107b758aab066c9b",
         "type": "tabs",
         "children": [
           {
-            "id": "528c45c9e12d8c67",
+            "id": "d3c6e4a9153cc91b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,7 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "528c45c9e12d8c67",
+  "active": "d3c6e4a9153cc91b",
   "lastOpenFiles": [
     "0. Assets/Locations/the-serpents-tide.png",
     "0. Assets/Misc/First Gunner.jpg",
@@ -196,7 +196,6 @@
     "0. Assets/Locations/menagerie-coast.png",
     "0. Assets/Characters/captain-thuillian.png",
     "0. Assets/Locations/golden-chain-vault-map.png",
-    "0. Assets/Characters/lucienne-de-montfort.png",
     "1. Characters/Myriad",
     "0. Assets/Factions",
     "1. Characters/Golden Chain",
