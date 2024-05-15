@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/32 - Session 32.md",
+                "file": "Misc/Ship Roles/First Gunner.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/32 - Session 32.md",
+                "file": "Misc/Ship Roles/First Gunner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/32 - Session 32.md",
+                "file": "Misc/Ship Roles/First Gunner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/32 - Session 32.md"
+                "file": "Misc/Ship Roles/First Gunner.md"
               }
             }
           }
@@ -170,10 +170,10 @@
   },
   "active": "963aa29fa65c23e0",
   "lastOpenFiles": [
+    "Sessions/32 - Session 32.md",
     "1. Characters/Darktow & The Revelry/Captain Entropy.md",
     "Sessions/31 - Beef.md",
     "0. Assets/Characters/entropy.jpg",
-    "Sessions/32 - Session 32.md",
     "0. Assets/Locations/the-serpents-tide.png",
     "0. Assets/Misc/First Gunner.jpg",
     "Sessions/30 - The Conclave of Sails.md",
