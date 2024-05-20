@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "963aa29fa65c23e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/32 - Session 32.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/32 - Session 32.md",
+                "file": "Sessions/31 - Beef.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/32 - Session 32.md",
+                "file": "Sessions/31 - Beef.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/32 - Session 32.md"
+                "file": "Sessions/31 - Beef.md"
               }
             }
           }
@@ -168,10 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "963aa29fa65c23e0",
+  "active": "07edda5841ac9339",
   "lastOpenFiles": [
-    "Misc/Ship Roles/First Gunner.md",
     "Sessions/32 - Session 32.md",
+    "Misc/Ship Roles/First Gunner.md",
     "1. Characters/Darktow & The Revelry/Captain Entropy.md",
     "Sessions/31 - Beef.md",
     "0. Assets/Characters/entropy.jpg",
