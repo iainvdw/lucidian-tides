@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5a2fc5c7781aa16d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/33 - Session 33.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/32 - Not So Merry Merfolk.md",
+                "file": "Sessions/33 - Session 33.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/32 - Not So Merry Merfolk.md",
+                "file": "Sessions/33 - Session 33.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/32 - Not So Merry Merfolk.md"
+                "file": "Sessions/33 - Session 33.md"
               }
             }
           }
@@ -154,10 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07edda5841ac9339",
+  "active": "5a2fc5c7781aa16d",
   "lastOpenFiles": [
-    "Sessions/31 - Beef.md",
     "Sessions/32 - Not So Merry Merfolk.md",
+    "Sessions/33 - Session 33.md",
+    "Sessions/31 - Beef.md",
     "Misc/Ship Roles/First Gunner.md",
     "1. Characters/Darktow & The Revelry/Captain Entropy.md",
     "0. Assets/Characters/entropy.jpg",
@@ -187,7 +202,6 @@
     "1. Characters/Miscellaneous/Ogrorlo.md",
     "1. Characters/Brokenbank/Etienne de Thauville.md",
     "0. Assets/Characters/maximillian-firetalon.jpg",
-    "Sessions/0 - The Serpent's Tide gets her crew.md",
     "1. Characters/Brokenbank",
     "0. Assets/Characters/jean-baptiste-de-cretica.jpeg",
     "2. Locations/Lushgut Forest",
